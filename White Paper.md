@@ -4,20 +4,20 @@ Elias Bitwayiki
 Aug 2022
 Abstract: I'm selling my story while I live it, we are being charged money to be alive so why not sell my life story to make a living out of being alive
 
-Contents
-Introduction✅
-Overview✅
-Design Philosophy
-Strategy
-Projects✅
-Emoji Project Youtube Series✅
-Twitch Experiential Design Exhibit✅
-Addressable Market✅
-Future Research
-Risks Mitigation
-Summary
-References
-Glossary
+- Contents
+- Introduction✅
+- Overview✅
+- Design Philosophy
+- Strategy
+- Projects✅
+- Emoji Project Youtube Series✅
+- Twitch Experiential Design Exhibit✅
+- Addressable Market✅
+- Future Research
+- Risks Mitigation
+- Summary
+- References
+- Glossary
 
 INTRODUCTION
 The Next Billion Users
