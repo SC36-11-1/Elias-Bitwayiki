@@ -30,10 +30,9 @@ The Next Billion Users Web 3.0 along with the natural evolution of technology be
 	Variety Streamer / Event Streamer
 	Streamer key words:
 	Ace/Non-binary/Androgynous/Art/Anime Manga/Gamer/Disability Awareness
-
-FITNESS / HEALTH
-(mental health awareness /food)
-Fitness / Mental Health /Disability Awareness + Charity 
+	FITNESS / HEALTH
+	(mental health awareness /food)
+	Fitness / Mental Health /Disability Awareness + Charity 
 	- Tinnitus☑️
 	- Insomnia☑️
 	- Visual Stress + Visual Snow☑️
