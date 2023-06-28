@@ -23,9 +23,9 @@ Abstract: I'm selling my story while I live it, we are being charged money to be
 The Next Billion Users Web 3.0 along with the natural evolution of technology being adapted into all working industries will put a much greater demand and availability for entertainment industries have begun fighting to secure and lock down creative content creators for the purpose of creating entertainment for the next billion users more and more people are logging on and discovering and creating new niche circles everyday. Thanks to web 3.0 authenticating creative works of art will make it easier for artist to be recognised this new form of transparency will help mitigate intellectual property theft. As a creative myself I have never been more excited taking ownership of my talents and skills instead of being taken advantage of and being bound to a contract with no hope of escape like some of the horror stories that float around the industry I believe the new era of web 3,0 will bring about collaborations that won’t have to compete with major conglomerates. Highly designed materials weather physical or digital versus industry scale mass produced products. Creators and creative and gamers will be like nascar drivers dawning multiple brands when games become more difficult and incentives are created for completing or participating Creative public figures sharing brand images projecting fun and wholesomeness teaching beneficial core values corporate rosters of gamers and creatives competing for financial gain and notoriety 
 
 ## OVERVIEW
-### Stream Generation and next billion users 2023+
+## Stream Generation and next billion users 2023+
 
-## Streamer Profile
+### Streamer Profile
 	Variety Streamer / Event Streamer
 	Streamer key words:
 	Ace/Non-binary/Androgynous/Art/Anime Manga/Gamer/Disability Awareness
@@ -58,24 +58,24 @@ As a Non-binary Androgynous disabled visual minority I provide a unique perspect
 ## Definitions
 
 Digital Earth Citizen/Electronic Citizenship 
-Digital Identity
+### Digital Identity
 	E-Citizen or E-Citizenship E-passport E-Residents E-Residencies all have to do with the same topic, identity and identifying /authenticating yourself electronically online or using the internet to verify your identity. Electronic Passports or E-Passports / Digital Passport and E-Citizen do not describe a citizen of earth but rather represent a digital identity or digital twin to represent yourself in the digital world as a resident of earth in the digital world as a Digital Earth-Resident (DER) and Digital Earth Citizen (DEC) 
 (Insert infographic)
-Digital Twin
+### Digital Twin
 	A Digital Twin is a virtual representation of an object or system that spans its lifecycle is updated from real-time data and uses simulation machine learning and reasoning to help decision making.
 (Insert infographic)
-EE-Residency
+### EE-Residency
 	Electronic Earth Residency and soon to come EM1-Residency and EM2-Residency (Electronic Moon 1 Residency Electronic Mars 2 Residency.
 (Insert infographic)
-Financial Identity
+### Financial Identity
 	A Financial-Identity is defined as the values knowledge skills and behaviours that influence how people manage money to build personal or collective financial wellbeing. The things you buy and tax brackets that dictate your place in our modern capitalistic society 
 (Insert infographic)
-Blockchain Biometrics
+### Blockchain Biometrics
 	Blockchain Biometrics are going to be a key factor in digital identity pertaining to identification documents such as passports social insurance numbers health cards driver licenses and etc.
 	Using the Blockchain as a medium to deter criminals and increase security and safety while at the same time making it impossible to fraudulently manipulate someones identity through the use of algorithms and biometrics 
 	Blockchain is defined as a ledger of decentralized data that is securely shared. Blockchain technology enables a collective group if select participants to share data with blockchain cloud services transactional data from multiple sources can be easily collected integrated and shared Data is broken up into shared blocks that are chained together with unique identifiers in the form of cryptographic hashes  
 (Insert infographic)
-Generative Art
+### Generative Art
 	Generative Art is the process of using algorithmic processes as a medium for creating graphic art or animations it is primarily used in research and data visualization 
 (Insert infographic)
 
