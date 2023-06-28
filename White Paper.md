@@ -148,6 +148,7 @@ Tier 1
 0/350 patrons
 First & Foremost: 🙏🏿Thank You ✨‼️
 In this tier you will receive the ability to view all my work and join the Community:
+
 	- Art
 	- Videos
 	- Projects
@@ -166,6 +167,7 @@ Tier 2
 First & Foremost 🙏🏿Thank you✨‼️‼️
 For supporting me you will gain deeper Access to the Discord channel (🚧 once recovered⚠️)As well as a public Telegram link to my outter-orbit💫
 	In addition to 📕Baseline Benefits✨ 📗Synchronicity✨ Tier Members will be able to:
+ 
 	- Access Deep Links
 	- Pinterest Level 2 + Pinterest Level 1
 	- View Past Art Work + Archive
@@ -187,6 +189,7 @@ Tier 3
 First & Foremost 🙏🏿Thank you✨‼️‼️‼️
 WE GOT A WEIRDO !!! 🤣 Your not supposed to actually pay this im assuming you “know ✨👀” or you’re interested in and/or believe in the paranormal, love creepy pasta and believe spooky season is all year round.
 	In addition to 📕BASELINE✨➕📗SYNCHRONICITY ✨Tier Members will be able to:
+ 
 	- Secret Watch Lists
 	- Psychic Readings
 	- Assistance
