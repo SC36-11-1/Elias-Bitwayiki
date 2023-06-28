@@ -140,17 +140,19 @@ Generative Art is the process of using algorithmic processes as a medium for cre
 (Insert infographic)
 
 ### Patreon
-	Tier 1
-	📕Baseline Viewer🧶✨ £5 /  
-	0/350 patrons
-	First & Foremost: 🙏🏿Thank You ✨‼️
-	In this tier you will receive the ability to view all my work and join the Community:
-	-Art
-	-Videos
-	-Projects
-	-Pinterest - Level 1
-	-Discord / Telegram
- 
+
+and just like that you are redun
+
+Tier 1
+📕Baseline Viewer🧶✨ £5 /
+0/350 patrons
+First & Foremost: 🙏🏿Thank You ✨‼️
+In this tier you will receive the ability to view all my work and join the Community:
+	- Art
+	- Videos
+	- Projects
+	- Pinterest - Level 1
+	- Discord / Telegram
 What's included
 - General Support
 - Ad-free content
@@ -158,18 +160,17 @@ What's included
 - Private community
 - Digital downloads
 
-	Tier 2
-	📗Synchronicity🍀✨ £20 / 
-	0 patrons
-	First & Foremost 🙏🏿Thank you✨‼️‼️
-	For supporting me you will gain deeper Access to the Discord channel (🚧 once recovered⚠️)As well as a public Telegram link to my outter-orbit💫
+Tier 2
+📗Synchronicity🍀✨ £20 / 
+0 patrons
+First & Foremost 🙏🏿Thank you✨‼️‼️
+For supporting me you will gain deeper Access to the Discord channel (🚧 once recovered⚠️)As well as a public Telegram link to my outter-orbit💫
 	In addition to 📕Baseline Benefits✨ 📗Synchronicity✨ Tier Members will be able to:
 	- Access Deep Links
 	- Pinterest Level 2 + Pinterest Level 1
 	- View Past Art Work + Archive
 	- Access to Entire Digital FootPrint (Rough + Work in Progress Projects)
 	- Favourites + Liked Posts
-
 What's included
 - Live chat
 - Private community
@@ -179,7 +180,6 @@ What's included
 - Ad-free content
 - Work-in-progress updates (digital)
 - Complete post archive
-
 
 	Tier 3
 	📘Convergence🧿✨ £100 / 
@@ -197,7 +197,6 @@ What's included
 	- My personal opinion
 	- First Dibs on Limited Edition merchandise line
 	- Free Stuff Random stuff I make Stickers, Prints etc…
-
 What's included
 - Live chat
 - Private community
