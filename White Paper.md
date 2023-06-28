@@ -96,27 +96,40 @@ Generative Art
 
 ## STRATEGY 
 
-ROI - Event's / NFT's-Prints / Tattoos / Drinks / Contests / Subscriptions / Donations / Crypto Coin / Merchendice 
+# ROI 
+- Event's
+- NFT's-Prints
+- Tattoos
+- Drinks
+- Contests
+- Subscriptions
+- Donations
+- Crypto Coin
+- Merchendice 
 
-Research study fundings
+# Research Study fundings
 	Visual Research Data
 	Experiential Research Data (Qualia)
 	Behavioural / Social Research
 	
- Exhibit implementation for research cohort study /
+	Exhibit implementation for research cohort study 
 
 ## PROJECT ROADMAP
 
 Physical
-(Insert infographic)
-Vlog Work Vlog IRL
-Tattoo + Bartending (Spirits and Symbols)
-Fitness + Clean eating / Gardening + Gardening
+(Insert infographic business analysis)
+- Vlog Work Blog IRL
+- Tattoo/Art + Bartending (Spirits and Symbols)
+- Fitness + Clean eating / Gardening + Gardening
 	
-Book + Calendars + Posters + Blog
-Art Book ( Drawings,Sketches, Poems, Charts(Data Vizualisation), Short Stories )
-Emoji Project
-NSFW🔞➕( Secret Tumblr )
+- Books
+	- Art Book ( Drawings,Sketches, Poems, Charts(Data Vizualisation), Short Stories )
+ -	 Posters
+
+	- Emoji Project
+	- NSFW🔞➕( Secret Tumblr )
+- Digital Calendars
+- Blog Posts
 (Insert infographic) 
 
 Capsule Clothing
