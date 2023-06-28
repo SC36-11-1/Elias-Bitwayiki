@@ -20,52 +20,47 @@ Abstract: I'm selling my story while I live it, we are being charged money to be
 - Glossary
 
 ## INTRODUCTION
-The Next Billion Users
-	Web 3.0 along with the natural evolution of technology being adapted into all working industries will put a much greater demand and availability for entertainment industries have begun fighting to secure and lock down creative content creators for the purpose of creating entertainment for the next billion users more and more people are logging on and discovering and creating new niche circles everyday. Thanks to web 3.0 authenticating creative works of art will make it easier for artist to be recognised this new form of transparency will help mitigate intellectual property theft. As a creative myself I have never been more excited taking ownership of my talents and skills instead of being taken advantage of and being bound to a contract with no hope of escape like some of the horror stories that float around the industry I believe the new era of web 3,0 will bring about collaborations that won’t have to compete with major conglomerates. Highly designed materials weather physical or digital versus industry scale mass produced products. Creators and creative and gamers will be like nascar drivers dawning multiple brands when games become more difficult and incentives are created for completing or participating
-Creative public figures sharing brand images projecting fun and wholesomeness teaching beneficial core values corporate rosters of gamers and creatives competing for financial gain and notoriety 
+	# The Next Billion Users
+	Web 3.0 along with the natural evolution of technology being adapted into all working industries will put a much greater demand and availability for entertainment industries have begun fighting to secure and lock down creative content creators for the purpose of creating entertainment for the next billion users more and more people are logging on and discovering and creating new niche circles everyday. Thanks to web 3.0 authenticating creative works of art will make it easier for artist to be recognised this new form of transparency will help mitigate intellectual property theft. As a creative myself I have never been more excited taking ownership of my talents and skills instead of being taken advantage of and being bound to a contract with no hope of escape like some of the horror stories that float around the industry I believe the new era of web 3,0 will bring about collaborations that won’t have to compete with major conglomerates. Highly designed materials weather physical or digital versus industry scale mass produced products. Creators and creative and gamers will be like nascar drivers dawning multiple brands when games become more difficult and incentives are created for completing or participating Creative public figures sharing brand images projecting fun and wholesomeness teaching beneficial core values corporate rosters of gamers and creatives competing for financial gain and notoriety 
 
 ## OVERVIEW
-Stream Generation and next billion user
+### Stream Generation and next billion users 2023+
 (Insert infographic)
 
-Streamer Profile
-Variety Streamer / Event Streamer
-(Insert infographic)
-Streamer key words:
-Ace/Non-binary/Androgynous/Art/Anime Manga/Gamer/Disability Awareness
+# Streamer Profile
+	Variety Streamer / Event Streamer
+	(Insert infographic)
+	Streamer key words:
+	Ace/Non-binary/Androgynous/Art/Anime Manga/Gamer/Disability Awareness
 
 FITNESS / HEALTH
 (mental health awareness /food)
 Fitness / Mental Health /Disability Awareness + Charity 
-	Tinnitus☑️
-	Insomnia☑️
-	Visual Stress + Visual Snow☑️
-	ASPD/C-PTSD/OCD/ADHD/ASD☑️
-	Body temperature regulation issues ☑️
-	Asthma☑️
-	Aura Migraine✅
-	Lightning Survivor☑️
+	- Tinnitus☑️
+	- Insomnia☑️
+	- Visual Stress + Visual Snow☑️
+	- ASPD/C-PTSD/OCD/ADHD/ASD☑️
+	- Body temperature regulation issues ☑️
+	- Asthma☑️
+	- Aura Migraine✅
+	- Lightning Survivor☑️
 
 
-As a Non-binary Androgynous disabled visual minority I provide a unique perspective coupled with my illnesses and life experiences represent a shared common interest with every niche that makes me highly relatable tiredand informed enough to delve deeper with genuine interest. CrossFit/Yoga Meditation, mindfulness, Sound baths, Sensory Deprivation, Clean eating, Frequencial impact on those closest to me.
+	As a Non-binary Androgynous disabled visual minority I provide a unique perspective coupled with my illnesses and life experiences represent a shared common interest with every niche that makes me highly relatable tiredand informed enough to delve deeper with genuine interest. CrossFit/Yoga Meditation, mindfulness, Sound baths, Sensory Deprivation, Clean eating, Frequencial impact on those closest to me.
 
-SCHOOL / RESEARCH
- (Life long learner)
+### SCHOOL / RESEARCH
+(Life long learner) User Expierence UX Research 
+- MANGA+ANIME+GPT
+- #indigoEmployee Book + Animation reviews 
+- Events / Conventions / Expos (special event participation Cosplay + Booth)
+- Board Games D&D / Pub Quizzes  / Card Games / Video Games
+- Museum / Gallery / Exhibit Events 
 
-MANGA+ANIME
-
-#indigoEmployee Book + Animation reviews 
-
-D&D+BORED/VIDEO GAMES+EVENTS
--Board Games / Pub Quizzes  / Card Games
--Video Games
--Museum / Gallery / Exhibit Events 
- (special event participation)
-
-Whats happening
-What I want to do
-How I will do it
-Why I do it
+		Where I am 
+		Whats happening
+		What I want to do / Will be doing
+		How I will do it
+		Why I do it
 
 ## Definitions
 
