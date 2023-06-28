@@ -141,7 +141,7 @@ Generative Art is the process of using algorithmic processes as a medium for cre
 
 ### Patreon
 
-and just like that you are redun
+and just like that you are redundant
 
 Tier 1
 📕Baseline Viewer🧶✨ £5 /
@@ -181,11 +181,11 @@ What's included
 - Work-in-progress updates (digital)
 - Complete post archive
 
-	Tier 3
-	📘Convergence🧿✨ £100 / 
-	0 patrons
-	First & Foremost 🙏🏿Thank you✨‼️‼️‼️
-	WE GOT A WEIRDO !!! 🤣 Your not supposed to actually pay this im assuming you “know ✨👀” or you’re interested in and/or believe in the paranormal, love creepy pasta and believe spooky season is all year round.
+Tier 3
+📘Convergence🧿✨ £100 / 
+0 patrons
+First & Foremost 🙏🏿Thank you✨‼️‼️‼️
+WE GOT A WEIRDO !!! 🤣 Your not supposed to actually pay this im assuming you “know ✨👀” or you’re interested in and/or believe in the paranormal, love creepy pasta and believe spooky season is all year round.
 	In addition to 📕BASELINE✨➕📗SYNCHRONICITY ✨Tier Members will be able to:
 	- Secret Watch Lists
 	- Psychic Readings
