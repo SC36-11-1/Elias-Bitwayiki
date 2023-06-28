@@ -28,7 +28,6 @@ The Next Billion Users Web 3.0 along with the natural evolution of technology be
 
 # Streamer Profile
 	Variety Streamer / Event Streamer
-	(Insert infographic)
 	Streamer key words:
 	Ace/Non-binary/Androgynous/Art/Anime Manga/Gamer/Disability Awareness
 
