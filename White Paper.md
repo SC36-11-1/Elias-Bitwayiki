@@ -141,90 +141,73 @@ Generative Art is the process of using algorithmic processes as a medium for cre
 	Mixed Reality+AR+VR(Unlimited Online Entries)
 (Insert infographic)
 
-
-
 ### Patreon
-Tier 1
-📕Baseline Viewer🧶✨
-£5 /  
-0/350 patrons
-First & Foremost: 🙏🏿Thank You ✨‼️
-In this tier you will receive the ability to view all my work and join the Community:
+	Tier 1
+	📕Baseline Viewer🧶✨ £5 /  
+	0/350 patrons
+	First & Foremost: 🙏🏿Thank You ✨‼️
+	In this tier you will receive the ability to view all my work and join the Community:
+	-Art
+	-Videos
+	-Projects
+	-Pinterest - Level 1
+	-Discord / Telegram
+ 
+What's included
+- General Support
+- Ad-free content
+- Behind-the-scenes content
+- Private community
+- Digital downloads
 
--Art
--Videos
--Projects
--Pinterest - Level 1
--Discord / Telegram
-
+	Tier 2
+	📗Synchronicity🍀✨ £20 / 
+	0 patrons
+	First & Foremost 🙏🏿Thank you✨‼️‼️
+	For supporting me you will gain deeper Access to the Discord channel (🚧 once recovered⚠️)As well as a public Telegram link to my outter-orbit💫
+	In addition to 📕Baseline Benefits✨ 📗Synchronicity✨ Tier Members will be able to:
+	- Access Deep Links
+	- Pinterest Level 2 + Pinterest Level 1
+	- View Past Art Work + Archive
+	- Access to Entire Digital FootPrint (Rough + Work in Progress Projects)
+	- Favourites + Liked Posts
 
 What's included
-
-General Support
-Ad-free content
-Behind-the-scenes content
-Private community
-Digital downloads
-
-
-Tier 2
-📗Synchronicity🍀✨
-£20 / 
-0 patrons
-Show less 
-First & Foremost 🙏🏿Thank you✨‼️‼️
-For supporting me you will gain deeper Access to the Discord channel (🚧 once recovered⚠️)As well as a public Telegram link to my outter-orbit💫
-In addition to 📕Baseline Benefits✨ 📗Synchronicity✨ Tier Members will be able to:
-
--Access Deep Links
--Pinterest Level 2 + Pinterest Level 1
--View Past Art Work + Archive
--Access to Entire Digital FootPrint (Rough + Work in Progress Projects)
--Favourites + Liked Posts
+- Live chat
+- Private community
+- Behind-the-scenes content
+- General Support
+- Digital downloads
+- Ad-free content
+- Work-in-progress updates (digital)
+- Complete post archive
 
 
-What's included
-
-Live chat
-Private community
-Behind-the-scenes content
-General Support
-Digital downloads
-Ad-free content
-Work-in-progress updates (digital)
-Complete post archive
-
-
-Tier 3
-📘Convergence🧿✨
-£100 / 
-0 patrons
-Show less 
-First & Foremost 🙏🏿Thank you✨‼️‼️‼️
-WE GOT A WEIRDO !!! 🤣 Your not supposed to actually pay this im assuming you “know ✨👀” or you’re interested in and/or believe in the paranormal, love creepy pasta and believe spooky season is all year round.
-In addition to 📕BASELINE✨➕📗SYNCHRONICITY ✨Tier Members will be able to:
-
-
--Secret Watch Lists
--Psychic Readings
--Assistance
--Insight
--Full Pinterest Access
--Book Credits
--YouTube Credits
--My personal opinion
--First Dibs on Limited Edition merchandise line
--Free Stuff Random stuff I make Stickers, Prints etc…
+	Tier 3
+	📘Convergence🧿✨ £100 / 
+	0 patrons
+	First & Foremost 🙏🏿Thank you✨‼️‼️‼️
+	WE GOT A WEIRDO !!! 🤣 Your not supposed to actually pay this im assuming you “know ✨👀” or you’re interested in and/or believe in the paranormal, love creepy pasta and believe spooky season is all year round.
+	In addition to 📕BASELINE✨➕📗SYNCHRONICITY ✨Tier Members will be able to:
+	- Secret Watch Lists
+	- Psychic Readings
+	- Assistance
+	- Insight
+	- Full Pinterest Access
+	- Book Credits
+	- YouTube Credits
+	- My personal opinion
+	- First Dibs on Limited Edition merchandise line
+	- Free Stuff Random stuff I make Stickers, Prints etc…
 
 What's included
-
-Live chat
-Private community
-Behind-the-scenes content
-General Support
-Digital downloads
-Ad-free content
-Behind-the-scenes content
+- Live chat
+- Private community
+- Behind-the-scenes content
+- General Support
+- Digital downloads
+- Ad-free content
+- Behind-the-scenes content
 
 
 ### Pinterest
