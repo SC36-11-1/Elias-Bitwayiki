@@ -82,11 +82,13 @@ Generative Art is the process of using algorithmic processes as a medium for cre
 ## DESIGN PHILOSOPHY
 (Insert blockchain biometric infographic) New age New world order past singularity era of trans humans + genetic Anomolies 
 
+### Art Direction 
+
 ## STRATEGY 
 
-# ROI 
+### Return On Investment 
 - Event's
-- NFT's-Prints
+- NFT's/Prints
 - Tattoos
 - Drinks
 - Contests
