@@ -106,7 +106,7 @@ Generative Art is the process of using algorithmic processes as a medium for cre
 
 ## PROJECT ROADMAP
 
-Physical
+### Physical
 (Insert infographic business analysis)
 - Vlog Work Blog IRL
 - Tattoo/Art + Bartending (Spirits and Symbols)
@@ -114,36 +114,34 @@ Physical
 	
 - Books
 	- Art Book ( Drawings,Sketches, Poems, Charts(Data Vizualisation), Short Stories )
- -	 Posters
+-	 Posters
 
 	- Emoji Project
 	- NSFW🔞➕( Secret Tumblr )
 - Digital Calendars
 - Blog Posts
+- Capsule Clothing
+- Stretchy + Neoprene Gym Tech
+	- Sweaters (Series)
 (Insert infographic) 
 
-Capsule Clothing
-Stretchy + Neoprene Gym Tech
-Sweaters (Series)
-(Insert infographic) 
+### Art Exhibit Experiential Design Installations IRL & Digital
 
-Art Exhibit Experiential Design Installations IRL & Digital
-
-Cyber Space
-VR (USDZ Apple)
-Indoor
+### Cyber Space
+	VR (USDZ Apple)
+	Crypto iOS Application + Website
+		- Fox Mask
+		- Crypto Token 
+### Indoor
 	Art Exhibits / Installations / Videos ( TouchDesigner )
-Room (Limited Number of Entries Per / Day)
-Mixed Reality+AR+VR (Unlimited Online Entries)
-Outdoor
-Parks
-Mixed Reality+AR+VR(Unlimited Online Entries)
+	Room (Limited Number of Entries Per / Day)
+	Mixed Reality+AR+VR (Unlimited Online Entries)
+#### Outdoor
+	Parks
+	Mixed Reality+AR+VR(Unlimited Online Entries)
 (Insert infographic)
 
 
-Crypto iOS Application + Website
-Fox Mask
-Crypto Token 
 
 ### Patreon
 Tier 1
