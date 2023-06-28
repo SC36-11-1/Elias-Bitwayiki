@@ -57,7 +57,7 @@ As a Non-binary Androgynous disabled visual minority I provide a unique perspect
 
 ## Definitions
 
-## Digital Earth Citizen / Electronic Citizenship 
+### Digital Earth Citizen / Electronic Citizenship 
 ### Digital Identity
 E-Citizen or E-Citizenship E-passport E-Residents E-Residencies all have to do with the same topic, identity and identifying /authenticating yourself electronically online or using the internet to verify your identity. Electronic Passports or E-Passports / Digital Passport and E-Citizen do not describe a citizen of earth but rather represent a digital identity or digital twin to represent yourself in the digital world as a resident of earth in the digital world as a Digital Earth-Resident (DER) and Digital Earth Citizen (DEC) 
 (Insert infographic)
