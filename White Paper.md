@@ -28,16 +28,14 @@ The Next Billion Users Web 3.0 along with the natural evolution of technology be
 ### Streamer Profile
 	Variety Streamer / Event Streamer
 	Streamer key words:
-	Ace/Non-binary/Androgynous/Art/Anime Manga/Gamer/Disability Awareness
-	FITNESS / HEALTH
-	(mental health awareness /food)
-	Fitness / Mental Health /Disability Awareness + Charity 
+	#Ace, #Non-binary/#nonconforming, #Androgynous, #Art, #Anime, #Manga, #Gamer, #Disability Awareness, #Fitness, #Health, #Mental health awareness, #Goodfood,
+	- Fitness / Mental Health /Disability Awareness + Charity 
 	- Tinnitus☑️
 	- Insomnia☑️
 	- Visual Stress + Visual Snow☑️
 	- ASPD/C-PTSD/OCD/ADHD/ASD☑️
 	- Body temperature regulation issues / Nerve damage / Pain tolerance ☑️
-	- Aura Migraine✅
+	- Aura Migraine☑️
 	- Lightning Survivor☑️
 As a Non-binary Androgynous disabled visual minority I provide a unique perspective coupled with my illnesses and life experiences represent a shared common interest with every niche that makes me highly relatable tiredand informed enough to delve deeper with genuine interest. CrossFit/Yoga Meditation, mindfulness, Sound baths, Sensory Deprivation, Clean eating, Frequencial impact on those closest to me.
 
