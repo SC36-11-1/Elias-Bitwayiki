@@ -76,11 +76,11 @@ Blockchain Biometrics are going to be a key factor in digital identity pertainin
 Blockchain is defined as a ledger of decentralized data that is securely shared. Blockchain technology enables a collective group if select participants to share data with blockchain cloud services transactional data from multiple sources can be easily collected integrated and shared Data is broken up into shared blocks that are chained together with unique identifiers in the form of cryptographic hashes  
 (Insert infographic)
 ### Generative Art
-	Generative Art is the process of using algorithmic processes as a medium for creating graphic art or animations it is primarily used in research and data visualization 
+Generative Art is the process of using algorithmic processes as a medium for creating graphic art or animations it is primarily used in research and data visualization 
 (Insert infographic)
 
 ## DESIGN PHILOSOPHY
-(Insert blockchain biometric infographic)
+(Insert blockchain biometric infographic) New age New world order past singularity era of trans humans + genetic Anomolies 
 
 ## STRATEGY 
 
