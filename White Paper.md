@@ -1,6 +1,6 @@
 # Traveling Space Cloud A Digital Creator Journey
 ## A Narrative of aTattoo & Bartending Digital Creator
-# Elias Bitwayiki
+### Elias Bitwayiki
 Aug 2022
 Abstract: I'm selling my story while I live it, we are being charged money to be alive so why not sell my life story to make a living out of being alive
 
