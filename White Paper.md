@@ -92,7 +92,10 @@ Generative Art
 DESIGN PHILOSOPHY
 (Insert blockchain biometric infographic)
 
-STRATEGY 
+## STRATEGY 
+
+ROI - Event's / NFT's-Prints / Tattoos / Drinks / Contests / Subscriptions / Donations / Crypto Coin
+
 Research study fundings
 	Visual Research Data
 	Experiential Research Data (Qualia)
