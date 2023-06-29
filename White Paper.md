@@ -315,9 +315,9 @@ Attributes can be anything ranging from colour shape design or sound of the nft
 ### Biometrics
 There are many different types of biometrics in this paper. I am going to highlight and emphasize the ones that I think will be most impactful. The use of multiple devices in unison provide deeper levels of sensor-data as well as higher levels of accuracy in readings.
 
-- [Brain Computer Interface - using electroencephalography (BCI -EEG)](-https://en.wikipedia.org/wiki/Brain–computer_interfac—)
+- [Brain Computer Interface - using electroencephalography (BCI -EEG)](https://en.wikipedia.org/wiki/Brain–computer_interfac)
   
-- [Heart Rate monitor](-https://en.wikipedia.org/wiki/Heart_rate_monito—)
+- [Heart Rate monitor](https://en.wikipedia.org/wiki/Heart_rate_monito)
 - Breathalyzer / CO Monitor - Breath quality 
 	- [Breathalyzer Carbon Monoxide](https://en.wikipedia.org/wiki/Breath_carbon_monoxide-)
 	- [Lumen](https://www.lumen.me)
