@@ -9,6 +9,9 @@
 
 ### Tattooing
 - https://www.worldtattooevents.com
+- https://www.fortunebusinessinsights.com/tattoo-market-104434
+- https://www.expertmarketresearch.com/reports/tattoo-market
+- https://daelacosmetictattoo.thinkific.com
 
 ### Action Sports 
 - https://www.redbull.com/ca-en/events?filter.countryCode=CA&filter.toggle.date=upcoming&filter.toggle.live=all
