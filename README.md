@@ -181,31 +181,31 @@ https://www.crunchbase.com/home
 # 🗃✨ WORK HISTORY
 
 ### Customer Experience Specialist - Indigo BookStore Hamilton, Ontario 2022 - Seasonal
-- Books books books
+    - Books books books
 
 ### Test Centre Administrator - triOS College, Hamilton, Ontario 2018 - 2020 
-- Maintained and applied expert knowledge of test center policies, practices and procedures.
-- Represented Prometric and Paragon in a welcoming environment and helped future students and citizens ease their nervousness.
+    - Maintained and applied expert knowledge of test center policies, practices and procedures.
+    - Represented Prometric and Paragon in a welcoming environment and helped future students and citizens ease their nervousness.
 
 ### Student Tutor - triOS College, Hamilton, Ontario 2018 - 2019
-- Created and implemented daily study guides to match the students' learning style.
-- Assisted students in acquiring a better understanding of targeted weak areas within a subject or a subject as a whole.
+    - Created and implemented daily study guides to match the students' learning style.
+    - Assisted students in acquiring a better understanding of targeted weak areas within a subject or a subject as a whole.
 
 ### Technical Support Agent - Dependable IT, Hamilton, Ontario 2018-2019 
-- Maintained a high quality level of customer satisfaction.
-- Troubleshoot incoming technical calls from customers, resolve technical issues for VOIP and internet connection issues.
+    - Maintained a high quality level of customer satisfaction.
+    - Troubleshoot incoming technical calls from customers, resolve technical issues for VOIP and internet connection issues.
 
 ### Store Manager - Parlez De Nous, Hamilton, Ontario 2016-2018
-- Analyzed sales figures and forecast future sales.
-- In depth knowledge of building exceptional customer experiences through engagement, positive attitude and service.
-- Maintained extremely high cleanliness standards.
-- Developed and designed projects consisting of apparel, accessories, promotional items, and website/mobile apps for customers as well as personal clients.
-- Analyzed seasonal fashion trends to remain up to date on emerging styles and weekly updating and maintaining store mannequin.
+    - Analyzed sales figures and forecast future sales.
+    - In depth knowledge of building exceptional customer experiences through engagement, positive attitude and service.
+    - Maintained extremely high cleanliness standards.
+    - Developed and designed projects consisting of apparel, accessories, promotional items, and website/mobile apps for customers as well as personal clients.
+    - Analyzed seasonal fashion trends to remain up to date on emerging styles and weekly updating and maintaining store mannequin.
 
 ### Stock Supervisor VANS VF Outdoor Canada Co. Burlington, Ontario 2013-2017
-- Trained and supervised new employees as well as coaching to achieve target sales goals.
-- Achieved lowest shrink in our region of +0.12% by implementing an organizational plan as well as recovering lost items throughout the store.
-- Accurately and efficiently controlled the operations of the stockroom maintenance, shipping/receiving procedures, which resulted in the fastest inventory time of all stores.
+    - Trained and supervised new employees as well as coaching to achieve target sales goals.
+    - Achieved lowest shrink in our region of +0.12% by implementing an organizational plan as well as recovering lost items throughout the store.
+    - Accurately and efficiently controlled the operations of the stockroom maintenance, shipping/receiving procedures, which resulted in the fastest inventory time of all stores.
 
 # MINTED* Baseline NFT for research Purposes
 
