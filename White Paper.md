@@ -286,31 +286,31 @@ Attributes can be anything ranging from colour shape design or sound of the nft
 	Routinely Check Have I been Pwned (dot) com
 
 ### SECURITY SET-UP CHECKLIST
-★ Run network scanner to map existing devices
-★ Strong WiFi password
-★ Strong Modem/AP management U & P
-★ Change default router IP
-★ WIFI is WPA2/AES
-★ Checked windows clients for malware
-★ Updated network device firmwares
-★ Disable WPS if not in use
-★ No DMZS are active
-★ Router remote management disabled
-★ Change default SSID
-★ Setup guest network
-★ Windows clients are up to date
-★ Bluetooth devices not broadcasting sensitive Info 
-★ 2FA for smart device accounts
-★ Limit DHCP range based on client needs
-★ Using 5GHz WiFi Where Possible
-★ Access point location optimal
-★ WIFI Extenders (in use if needed)
-★ Router port forwarding disabled where possible 
-★ WIFI access points/routers using least congested Channel
-★ Port 32764 is closed
-★ Run port scan on external IP
-★ Ensured all devices are connected to WIFI
-★ Make documentation 
+- Run network scanner to map existing devices
+- Strong WiFi password
+- Strong Modem/AP management U & P
+- Change default router IP
+- WIFI is WPA2/AES
+- Checked windows clients for malware
+- Updated network device firmwares
+- Disable WPS if not in use
+- No DMZS are active
+- Router remote management disabled
+- Change default SSID
+- Setup guest network
+- Windows clients are up to date
+- Bluetooth devices not broadcasting sensitive Info 
+- 2FA for smart device accounts
+- Limit DHCP range based on client needs
+- Using 5GHz WiFi Where Possible
+- Access point location optimal
+- WIFI Extenders (in use if needed)
+ Router port forwarding disabled where possible 
+- WIFI access points/routers using least congested Channel
+- Port 32764 is closed
+- Run port scan on external IP
+- Ensured all devices are connected to WIFI
+- Make documentation 
 
 ### Biometrics
 There are many different types of biometrics in this paper. I am going to highlight and emphasize the ones that I think will be most impactful. The use of multiple devices in unison provide deeper levels of sensor-data as well as higher levels of accuracy in readings.
@@ -326,50 +326,44 @@ There are many different types of biometrics in this paper. I am going to highli
 - [Seismographs / Vibration Frequency Monitor](https://www.amazon.ca/WT901BLECL-Accelerometer-Acceleration-Low-Consumption-Compatible/dp/B07T2C97WN/ref=asc_df_B07T2C97WN/?tag=googleshopc0c-20&linkCode=df0&hvadid=578819718414&hvpos=&hvnetw=g&hvrand=12586884469942605259&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9000858&hvtargid=pla-814672764440&psc)
 
 - [Eye tracker](-https://en.wikipedia.org/wiki/Eye_tracking)
-[Motion Sensor](-https://en.wikipedia.org/wiki/Motion_detector)*bad evolving backwards*
-[Motion tracker](-https://en.wikipedia.org/wiki/Motion_capture)*‼️(Kinect Good Good✨)*
-[Wifi Positioning Service (WPS) / Global Positioning Service (GPS)]((-https://en.wikipedia.org/wiki/Wi-Fi_positioning_system))
-[Decibel Sensor](-https://en.wikipedia.org/wiki/Decibel)
-Muscle Sensor (Flex Meteor) 
--https://cdn.sparkfun.com/assets/learn_tutorials/1/9/5/6/MyoWare_v2_AdvancedGuide-Updated.pdf-
-Electromagnetic Field Sensor (EMF)
-	-https://en.wikipedia.org/wiki/EMF_measuremen— 
-Apple Watch 
-	-(Apple Application Store locked biometrics)
-Apple Air Tag 
-	-(Apple Application Store locked biometrics)
-Blood
-	-(Human Genome-code)
+- [Motion Sensor](-https://en.wikipedia.org/wiki/Motion_detector)*bad evolving backwards*
+- [Motion tracker](-https://en.wikipedia.org/wiki/Motion_capture)*‼️(Kinect Good Good✨)*
+- [Wifi Positioning Service (WPS) / Global Positioning Service (GPS)]((-https://en.wikipedia.org/wiki/Wi-Fi_positioning_system))
+- [Decibel Sensor](-https://en.wikipedia.org/wiki/Decibel)
+- [Muscle Sensor](https://cdn.sparkfun.com/assets/learn_tutorials/1/9/5/6/MyoWare_v2_AdvancedGuide-Updated.pdf)(Flex Meteor) 
+- [Electromagnetic Field Sensor](https://en.wikipedia.org/wiki/EMF_measuremen)(EMF)
+- Apple Watch (Apple Application Store locked biometrics)
+- Apple Air Tag (Apple Application Store locked biometrics)
+- Blood (Human Genome-code)
  
-
 ### Below are a few categories of Solana projects we’re interested in funding. You can also see a running list of specific project ideas
-Censorship Resistance
-DAO Tooling
-Developer Tooling
-Education☑️
-Payments / Solana Pay
-Financial Inclusion
-Climate Change
-Academic Research☑️
+- Censorship Resistance
+- DAO Tooling
+- Developer Tooling
+- Education☑️
+- Payments / Solana Pay
+- Financial Inclusion
+- Climate Change
+- Academic Research☑️
 Infographic Set-up Guide 
-Choose your desired infographic template.
-Side-by-side comparison infographic:
-Flowchart infographic:
-Timeline infographic:
-Graph-based infographic:
-Image-heavy infographic:
+- Choose your desired infographic template.
+- Side-by-side comparison infographic:
+- Flowchart infographic:
+- Timeline infographic:
+- Graph-based infographic:
+- Image-heavy infographic:
 Identify the audience for your infographic.
-A novice.
-A generalist
-A managerial
-An expert
-An executive
+- A novice.
+- A generalist
+- A managerial
+- An expert
+- An executive
 Collect your content and relevant data.
-Choosing your data
-Organising your data
-Citing your sources
-Download your template to PowerPoint.
-Customize your infographic.
+- Choosing your data
+- Organising your data
+- Citing your sources
+- Download your template to PowerPoint.
+- Customize your infographic.
 Include a footer with your sources and logo.
 Add an embed code and Pinterest button, and publish it.
 Blockchain Technology Framework
