@@ -27,8 +27,21 @@ The Next Billion Users Web 3.0 along with the natural evolution of technology be
 
 ### Streamer Profile
 	Variety Streamer / Event Streamer
-	Streamer key words:
-	#Ace, #Non-binary/#nonconforming, #Androgynous, #Art, #Anime, #Manga, #Gamer, #Disability Awareness, #Fitness, #Health, #Mental health awareness, #Goodfood,
+	Streamer Hashtags:
+	- #Ace 
+	- #Non-binary
+ 	- #Nonconforming
+  	- #Androgynous
+   	- #Art
+    	- #Anime
+     	- #Manga
+      	- #Gamer 
+       	- #Disability Awareness 
+	- #Fitness
+ 	- #Health 
+  	- #Mental health awareness
+   	- #Goodfood,
+    	Streamer key words:
 	- Fitness / Mental Health /Disability Awareness + Charity 
 	- Tinnitus☑️
 	- Insomnia☑️
@@ -140,8 +153,6 @@ Generative Art is the process of using algorithmic processes as a medium for cre
 (Insert infographic)
 
 ### Patreon
-
-and just like that you are redundant
 
 Tier 1
 📕Baseline Viewer🧶✨ £5 /
@@ -256,11 +267,11 @@ Attributes can be anything ranging from colour shape design or sound of the nft
      • Can only be traded at specific times of the day afternoon 11:11am to 1:11pm 
 
 ### SECURITIES SET-UP 
-★ SAAS / Flash Stick Back Up (Pre Downloaded Software) 
-★ Must Be Offline during set up 
-★ Create Virtual Console / Virtual Machine 
-★ VPN / CloudFlare 
-★ ISP -Specialized IPv4/ IPv6 Address
+- SAAS / Flash Stick Back Up (Pre Downloaded Software) 
+- Must Be Offline during set up 
+- Create Virtual Console / Virtual Machine 
+- VPN / CloudFlare 
+- ISP -Specialized IPv4/ IPv6 Address
 
 ### NFT SECURITY RISKS
 	Phishing Attacks
@@ -305,7 +316,7 @@ Attributes can be anything ranging from colour shape design or sound of the nft
 - Using 5GHz WiFi Where Possible
 - Access point location optimal
 - WIFI Extenders (in use if needed)
- Router port forwarding disabled where possible 
+- Router port forwarding disabled where possible 
 - WIFI access points/routers using least congested Channel
 - Port 32764 is closed
 - Run port scan on external IP
@@ -345,6 +356,7 @@ There are many different types of biometrics in this paper. I am going to highli
 - Financial Inclusion
 - Climate Change
 - Academic Research☑️
+  
 Infographic Set-up Guide 
 - Choose your desired infographic template.
 - Side-by-side comparison infographic:
@@ -352,31 +364,35 @@ Infographic Set-up Guide
 - Timeline infographic:
 - Graph-based infographic:
 - Image-heavy infographic:
+
 Identify the audience for your infographic.
 - A novice.
 - A generalist
 - A managerial
 - An expert
 - An executive
+
 Collect your content and relevant data.
 - Choosing your data
 - Organising your data
 - Citing your sources
 - Download your template to PowerPoint.
 - Customize your infographic.
-Include a footer with your sources and logo.
-Add an embed code and Pinterest button, and publish it.
-Blockchain Technology Framework
-PRIVATE -Ripple- hyper ledger-corda
-CONSORTIUM/ FEDERATED-r3-EWF-B3i-Libra
-PERMISSIONED-
-PERMISSIONLESS-BTC-ETH
-PUBLIC
-Data.sets
-Data.gov
-FiveThirtyEight
-Kaggle
-Data.World
-DataSetSearch.Research.Google.com 
-Noaa.gov/data-Ed-presentation-2020
+- Include a footer with your sources and logo.
+- Add an embed code and Pinterest button, and publish it.
+
+### Blockchain Technology Framework
+- PRIVATE -Ripple- hyper ledger-corda
+- CONSORTIUM/ FEDERATED-r3-EWF-B3i-Libra
+- PERMISSIONED-
+- PERMISSIONLESS-BTC-ETH
+- PUBLIC
+
+### Data.sets
+- Data.gov
+- FiveThirtyEight
+- Kaggle
+- Data.World
+- DataSetSearch.Research.Google.com 
+- Noaa.gov/data-Ed-presentation-2020
 
