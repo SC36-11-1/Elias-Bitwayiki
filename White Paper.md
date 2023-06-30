@@ -297,31 +297,31 @@ Attributes can be anything ranging from colour shape design or sound of the nft
 	10. Routinely Check Have I been Pwned (dot) com
 
 ### SECURITY SET-UP CHECKLIST
-- Run network scanner to map existing devices
-- Strong WiFi password
-- Strong Modem/AP management U & P
-- Change default router IP
-- WIFI is WPA2/AES
-- Checked windows clients for malware
-- Updated network device firmwares
-- Disable WPS if not in use
-- No DMZS are active
-- Router remote management disabled
-- Change default SSID
-- Setup guest network
-- Windows clients are up to date
-- Bluetooth devices not broadcasting sensitive Info 
-- 2FA for smart device accounts
-- Limit DHCP range based on client needs
-- Using 5GHz WiFi Where Possible
-- Access point location optimal
-- WIFI Extenders (in use if needed)
-- Router port forwarding disabled where possible 
-- WIFI access points/routers using least congested Channel
-- Port 32764 is closed
-- Run port scan on external IP
-- Ensured all devices are connected to WIFI
-- Make documentation 
+- 0️⃣ Run network scanner to map existing devices
+- 1️⃣ Strong WiFi password
+- 2️⃣ Strong Modem/AP management U & P
+- 3️⃣ Change default router IP
+- 4️⃣ WIFI is WPA2/AES
+- 5️⃣ Checked windows clients for malware
+- 6️⃣ Updated network device firmwares
+- 7️⃣ Disable WPS if not in use
+- 8️⃣ No DMZS are active
+- 9️⃣ Router remote management disabled
+- 🔟 Change default SSID
+- 1️⃣1️⃣ Setup guest network
+- 1️⃣2️⃣ Windows clients are up to date
+- 1️⃣3️⃣ Bluetooth devices not broadcasting sensitive Info 
+- 1️⃣4️⃣ 2FA for smart device accounts
+- 1️⃣5️⃣ Limit DHCP range based on client needs
+- 1️⃣6️⃣ Using 5GHz WiFi Where Possible
+- 1️⃣7️⃣ Access point location optimal
+- 1️⃣8️⃣ WIFI Extenders (in use if needed)
+- 1️⃣9️⃣ Router port forwarding disabled where possible 
+- 2️⃣0️⃣ WIFI access points/routers using least congested Channel
+- 2️⃣1️⃣ Port 32764 is closed
+- 2️⃣2️⃣ Run port scan on external IP
+- 2️⃣3️⃣ Ensured all devices are connected to WIFI
+- 2️⃣4️⃣ Make documentation 
 
 ### Biometrics
 There are many different types of biometrics in this paper. I am going to highlight and emphasize the ones that I think will be most impactful. The use of multiple devices in unison provide deeper levels of sensor-data as well as higher levels of accuracy in readings.
