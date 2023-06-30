@@ -274,27 +274,27 @@ Attributes can be anything ranging from colour shape design or sound of the nft
 - ISP -Specialized IPv4/ IPv6 Address
 
 ### NFT SECURITY RISKS
-	Phishing Attacks
-	Fake Market-Places
-	Identity Theft
-	Pump and Dump Scams
-	Rug Pull Scams
-	Fake Collaborations 
-	Screen Shares
-	Pop Ups
-	Posing as Customer Support
+	1. Phishing Attacks
+	2. Fake Market-Places
+	3. Identity Theft
+	4. Pump and Dump Scams
+	5. Rug Pull Scams
+	6. Fake Collaborations 
+	7. Screen Shares
+	8. Pop Ups
+	9. Posing as Customer Support
 
 ### NFT SAFETY TIPS & BEST PRACTICES
-	Use Reliable Crypto Wallets And Marketplaces
-	Look carefully where you put your money
-	Protect your seed phrase
-	Stay updated with trend 
-	Activate security settings in new crypto wallet
-	Avoid clicking on links in DM’s
-	Protect your privacy
-	Always take your time
-	Hardware Wallet is Best
-	Routinely Check Have I been Pwned (dot) com
+	1. Use Reliable Crypto Wallets And Marketplaces
+	2. Look carefully where you put your money
+	3. Protect your seed phrase
+	4. Stay updated with trend 
+	5. Activate security settings in new crypto wallet
+	6. Avoid clicking on links in DM’s
+	7. Protect your privacy
+	8. Always take your time
+	9. Hardware Wallet is Best
+	10. Routinely Check Have I been Pwned (dot) com
 
 ### SECURITY SET-UP CHECKLIST
 - Run network scanner to map existing devices
