@@ -54,7 +54,7 @@ As a Non-binary Androgynous disabled visual minority I provide a unique perspect
 
 ### SCHOOL / RESEARCH
 (Life long learner) User Expierence UX Research 
-- MANGA+ANIME+GPT
+- MANGA+ANIME+GPT/Artificial Intelegence
 - #indigoEmployee Book + Animation reviews 
 - Events / Conventions / Expos (special event participation Cosplay + Booth)
 - Board Games D&D / Pub Quizzes  / Card Games / Video Games
