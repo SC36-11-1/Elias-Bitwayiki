@@ -115,7 +115,8 @@ Generative Art is the process of using algorithmic processes as a medium for cre
 	Experiential Research Data (Qualia)
 	Behavioural / Social Research
 	
-	Exhibit implementation for research cohort study 
+	Exhibit implementation for research cohort study
+ 	Social Narative Post-Singularity Obserbvant
 
 ## PROJECT ROADMAP
 
