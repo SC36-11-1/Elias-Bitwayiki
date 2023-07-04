@@ -54,12 +54,14 @@ The Next Billion Users Web 3.0 along with the natural evolution of technology be
 	- Lightning Survivor☑️
 As a Non-binary Androgynous disabled visual minority I provide a unique perspective coupled with my illnesses and life experiences represent a shared common interest with every niche that makes me highly relatable tiredand informed enough to delve deeper with genuine interest. CrossFit/Yoga Meditation, mindfulness, Sound baths, Sensory Deprivation, Clean eating, Frequencial impact on those closest to me.
 
-### SCHOOL / RESEARCH
-Life long learner + User Expierence UX Research 
-- Art
-- Temporary / Permanent / Edible / Non-Edible
-	- MANGA+ANIME+GPT
- 		- #indigoEmployee Book + Animation reviews	 
+### SCHOOL & RESEARCH
+Life long learner + User Expierence UX Research + Art
+🔴Temporary / 🔵Permanent / 🟢Edible / 🟣Non-Edible
+	
+- MANGA+ANIME+GPT *Online*
+- #indigoEmployee Seasonal + Animation reviews *Resources*
+- #GuestBartending 🟢Edible Garnishes 🟣Non-Edible Garnishes/
+- #GuestTattooArtist 🔵Permanent Tattoos / 🔴Temporary Tattoos
 - Events / Conventions / Expos (special event participation Cosplay + Booth)
 - Board Games D&D / Pub Quizzes  / Card Games / Video Games
 - Museum / Gallery / Exhibit Events 
