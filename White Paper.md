@@ -339,11 +339,11 @@ There are many different types of biometrics in this paper. I am going to highli
 - [Body Temperature Monitor](https://www.healthline.com/health/types-of-thermometer)
 - [Seismographs / Vibration Frequency Monitor](https://www.amazon.ca/WT901BLECL-Accelerometer-Acceleration-Low-Consumption-Compatible/dp/B07T2C97WN/ref=asc_df_B07T2C97WN/?tag=googleshopc0c-20&linkCode=df0&hvadid=578819718414&hvpos=&hvnetw=g&hvrand=12586884469942605259&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9000858&hvtargid=pla-814672764440&psc)
 
-- [Eye tracker](-https://en.wikipedia.org/wiki/Eye_tracking)
-- [Motion Sensor](-https://en.wikipedia.org/wiki/Motion_detector)*bad evolving backwards*
-- [Motion tracker](-https://en.wikipedia.org/wiki/Motion_capture)*‼️(Kinect Good Good✨)*
-- [Wifi Positioning Service (WPS) / Global Positioning Service (GPS)]((-https://en.wikipedia.org/wiki/Wi-Fi_positioning_system))
-- [Decibel Sensor](-https://en.wikipedia.org/wiki/Decibel)
+- [Eye tracker](https://en.wikipedia.org/wiki/Eye_tracking)
+- [Motion Sensor](https://en.wikipedia.org/wiki/Motion_detector)*bad evolving backwards*
+- [Motion tracker](https://en.wikipedia.org/wiki/Motion_capture)*‼️(Kinect Good Good✨)*
+- [Wifi Positioning Service (WPS) / Global Positioning Service (GPS)](https://en.wikipedia.org/wiki/Wi-Fi_positioning_system)
+- [Decibel Sensor](https://en.wikipedia.org/wiki/Decibel)
 - [Muscle Sensor](https://cdn.sparkfun.com/assets/learn_tutorials/1/9/5/6/MyoWare_v2_AdvancedGuide-Updated.pdf)(Flex Meteor) 
 - [Electromagnetic Field Sensor](https://en.wikipedia.org/wiki/EMF_measuremen)(EMF)
 - Apple Watch (Apple Application Store locked biometrics)
