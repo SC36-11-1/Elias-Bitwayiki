@@ -28,21 +28,21 @@ The Next Billion Users Web 3.0 along with the natural evolution of technology be
 ### Streamer Profile
 	Variety Streamer / Event Streamer
 	Streamer Hashtags:
-	- #Ace
+	- #Body Image / Body Dismorphia
+ 	- #Fitness
+ 	- #Health
+  	- #Mental health awareness
+   	- #Goodfood
+ 	- #Ace
 	- #Non-binary
  	- #Nonconforming
   	- #Androgynous
    	- #Disability Awareness
-    	- #Body Image / Body Dismorphia
    	- #Art
     	- #Anime
      	- #Manga
       	- #Gamer
-	- #Fitness
- 	- #Health
-  	- #Mental health awareness
-   	- #Goodfood
-    	
+       
      	Streamer key words:
 	- Fitness / Mental Health /Disability Awareness + Charity 
 	- Tinnitus☑️
