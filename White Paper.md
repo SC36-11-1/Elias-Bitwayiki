@@ -329,7 +329,7 @@ Attributes can be anything ranging from colour shape design or sound of the nft
 ### Biometrics
 There are many different types of biometrics in this paper. I am going to highlight and emphasize the ones that I think will be most impactful. The use of multiple devices in unison provide deeper levels of sensor-data as well as higher levels of accuracy in readings.
 
-- [Brain Computer Interface - using electroencephalography (BCI -EEG)](https://en.wikipedia.org/wiki/Brain–computer_interfac)
+- [Brain Computer Interface - using electroencephalography *BCI -EEG*](https://en.wikipedia.org/wiki/Brain–computer_interfac)
   
 - [Heart Rate monitor](https://en.wikipedia.org/wiki/Heart_rate_monito)
 - Breathalyzer / CO Monitor - Breath quality 
@@ -341,11 +341,11 @@ There are many different types of biometrics in this paper. I am going to highli
 
 - [Eye tracker](https://en.wikipedia.org/wiki/Eye_tracking)
 - [Motion Sensor](https://en.wikipedia.org/wiki/Motion_detector)*bad evolving backwards*
-- [Motion tracker](https://en.wikipedia.org/wiki/Motion_capture)*‼️(Kinect Good Good✨)*
+- [Motion tracker](https://en.wikipedia.org/wiki/Motion_capture)*‼️Kinect Good Good✨*
 - [Wifi Positioning Service (WPS) / Global Positioning Service (GPS)](https://en.wikipedia.org/wiki/Wi-Fi_positioning_system)
 - [Decibel Sensor](https://en.wikipedia.org/wiki/Decibel)
-- [Muscle Sensor](https://cdn.sparkfun.com/assets/learn_tutorials/1/9/5/6/MyoWare_v2_AdvancedGuide-Updated.pdf)(Flex Meteor) 
-- [Electromagnetic Field Sensor](https://en.wikipedia.org/wiki/EMF_measuremen)(EMF)
+- [Muscle Sensor](https://cdn.sparkfun.com/assets/learn_tutorials/1/9/5/6/MyoWare_v2_AdvancedGuide-Updated.pdf)*Flex Meteor* 
+- [Electromagnetic Field Sensor](https://en.wikipedia.org/wiki/EMF_measuremen)*EMF*
 - Apple Watch (Apple Application Store locked biometrics)
 - Apple Air Tag (Apple Application Store locked biometrics)
 - Blood (Human Genome-code)
