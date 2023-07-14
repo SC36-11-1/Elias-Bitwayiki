@@ -7,24 +7,19 @@ Bar (invite only RSVP) https://www.youtube.com/watch?v=U4G9ZfvySYM
 
 Project management + Experiential Design
 
-Digital Green Bar
-	-oxygen
-	-cbd/thc
-	-alcohol
-		-molecular gastronomy
-		-Terpene Menu
+# Digital Green Bar
+	- oxygen
+	- cbd/thc
+ 		- Terpene Menu
+	- Alcohol + Non Alcoholic 
+	- Molecular gastronomy
+	
 
 (Visual Survey before+After)
 (1 Specialty drink requires 24hour notice 1 per resservation online only)
 
 ### Menu
 	Drinks+Puddings+Jellies+Garnish+Fruits+Extracts
-
-Digital Green Bar
-	-oxygen
-	-alcohol
- 	-cbd/thc
-		-molecular gastronomy 
 
 ## Drinks
 	POM Juice 100% Pomegranate 473ML
@@ -48,6 +43,7 @@ Vegetables
 	  	- Pickled Vegetable Water 
 		- Pickled Radishes
 		- Pickled Sweet Unions
+    		- Veggitable Juicer
 - Kombucha
 - Syrups
 - Extracts
