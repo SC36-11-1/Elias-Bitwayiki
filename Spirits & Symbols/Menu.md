@@ -5,7 +5,7 @@ https://www.diageobaracademy.com/en_zz/
 Bar (invite only RSVP) https://www.youtube.com/watch?v=U4G9ZfvySYM
 
 
-Project management + Experiential Design
+# Project management + Experiential Design
 
 # Digital Green Bar
 	- oxygen
@@ -43,9 +43,9 @@ Vegetables
 	  	- Pickled Vegetable Water 
 		- Pickled Radishes
 		- Pickled Sweet Unions
-    		- Veggitable Juicer
+
 - Kombucha
 - Syrups
 - Extracts
 - Spices / Herbds
-	 *[Grown in Freight Farm/Vertical Garden](https://www.freightfarms.com)*
+- Veggitable Juicer *[Grown in Freight Farm/Vertical Garden](https://www.freightfarms.com)*
