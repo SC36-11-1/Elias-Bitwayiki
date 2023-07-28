@@ -381,10 +381,10 @@ Identify the audience for your infographic.
 - An executive
 
 Collect your content and relevant data.
-- Choosing your data
-- Organising your data
-- Citing your sources
-- Download your template to PowerPoint.
+- Choosing your data✅
+- Organising your data✅
+- Citing your sources✅
+- Download your template to PowerPoint.☑️
 - Customize your infographic.
 - Include a footer with your sources and logo.
 - Add an embed code and Pinterest button, and publish it.
