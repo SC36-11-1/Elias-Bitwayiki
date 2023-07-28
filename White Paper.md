@@ -390,7 +390,7 @@ Collect your content and relevant data.
 - Add an embed code and Pinterest button, and publish it.
 
 ### Blockchain Technology Framework
-- PRIVATE -Ripple- hyper ledger-corda
+- PRIVATE -[Ripple](https://xrpl.org)- hyper ledger-corda
 - CONSORTIUM/ FEDERATED-r3-EWF-B3i-Libra
 - PERMISSIONED-
 - PERMISSIONLESS-BTC-ETH
