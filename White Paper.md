@@ -137,11 +137,26 @@ Generative Art is the process of using algorithmic processes as a medium for cre
 
 	- Emoji Project
 	- NSFW🔞➕( Secret Tumblr )
-- Digital Calendars
-- Blog Posts
 - Capsule Clothing
 - Stretchy + Neoprene Gym Tech
 	- Sweaters (Series)
+
+### Digital
+
+- Symbols Shape + Locations (2D) P5.js
+- Tattoo “Lisa” Project NFT Generator 
+- 3D Emoji Project (3D)
+- Fox Mask (App)
+
+# Touch Designer Exhibit
+- Sensors
+- Crypto Digital Slot Machine
+	- Gift Shop
+
+- Digital Calendars
+- Blog Posts
+
+
 (Insert infographic) 
 
 ### Art Exhibit Experiential Design Installations IRL & Digital
