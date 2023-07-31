@@ -148,13 +148,12 @@ Generative Art is the process of using algorithmic processes as a medium for cre
 - 3D Emoji Project (3D)
 - Fox Mask (App)
 
-# Touch Designer Exhibit
+### Touch Designer Exhibit
 - Sensors
 - Crypto Digital Slot Machine
 	- Gift Shop
-
-- Digital Calendars
-- Blog Posts
+	- Digital Calendars
+	- Blog Posts
 
 
 (Insert infographic) 
