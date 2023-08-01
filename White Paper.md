@@ -273,7 +273,7 @@ Types of NFT’s
 
 Levels of complexity in NFT’s 
 - Mutable when traded.     
-- Attached to blockchain Recreatable and immutable
+- Immutable (Unchanging) attached to blockchain recreateable (Static/Print)
 
 DeafBeef entropy collection degrades and becomes fragmented with artifacts and distortion
 
