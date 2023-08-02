@@ -275,18 +275,19 @@ Levels of complexity in NFT’s
 - Mutable when traded.     
 - Immutable (Unchanging) attached to blockchain recreateable (Static/Print)
 
-DeafBeef entropy collection degrades and becomes fragmented with artifacts and distortion
+		DeafBeef entropy collection degrades and becomes fragmented with artifacts and distortion
+  		**Attributes** can be anything ranging from colour shape design or sound of the nft
 
-Attributes can be anything ranging from colour shape design or sound of the nft
 - Mutable attributes depending on input
-     • Interactive (Push button animations)
-     • Triggered when 2 or more in 1 collection 
+- Interactive (Push button animations)
+- Triggered when 2 or more in 1 collection 
 - Mutable attributes depending on specific source
-     • Blockchain gas fees
-     • Season
+- Blockchain gas fees
+- Seasons
+- Migration Patterns
 - Special trading restrictions
-     • Can only be traded on specific days like full moons***
-     • Can only be traded at specific times of the day afternoon 11:11am to 1:11pm 
+- Can only be traded on specific days like full moons***
+- Can only be traded at specific times of the day afternoon 11:11am to 1:11pm 
 
 ### SECURITIES SET-UP 
 - SAAS / Flash Stick Back Up (Pre Downloaded Software) 
