@@ -1,5 +1,6 @@
 # Traveling Space Cloud A Digital Creator Journey
 ## A Narrative of a Tattoo & Bartending Digital Creator
+
 ### Elias Bitwayiki
 Aug 2022
 Abstract: I'm selling my story while I live it, we are being charged money to be alive so why not sell my life story to make a living out of being alive
@@ -55,9 +56,10 @@ The Next Billion Users Web 3.0 along with the natural evolution of technology be
 As a Non-binary Androgynous disabled visual minority I provide a unique perspective coupled with my illnesses and life experiences represent a shared common interest with every niche that makes me highly relatable tiredand informed enough to delve deeper with genuine interest. CrossFit/Yoga Meditation, mindfulness, Sound baths, Sensory Deprivation, Clean eating, Frequencial impact on those closest to me.
 
 ### SCHOOL & RESEARCH
-Life long learner, User Expierence UX Research, Art
+Life long learner, User Expierence UX Research, Art 
 🔴Temporary / 🔵Permanent / 🟢Edible / 🟣Non-Edible
-	
+
+- The source field investigations user experience research
 - MANGA+ANIME+GPT *Online*
 - #indigoEmployee Seasonal + Animation reviews *Resources*
 - #GuestBartending 🟢Edible Garnishes 🟣Non-Edible Garnishes/
