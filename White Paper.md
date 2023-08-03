@@ -285,7 +285,8 @@ Types of NFT’s
 	- Triggered when 2 or more in 1 collection 
 - Mutable attributes depending on specific source
 	- Blockchain Gas fees
-	- Date
+	- Time
+ 	- Date
   		- Zodiac 
  		- Seasons
 		- Migration Patterns
