@@ -273,7 +273,7 @@ Types of NFT’s
 - Song + Picture
 - Song + Animated Picture 
 
-Levels of complexity in NFT’s 
+**Levels of complexity in NFT’s **
 - Mutable when traded.     
 - Immutable (Unchanging) attached to blockchain recreateable (Static/Print)
 
@@ -284,11 +284,14 @@ Levels of complexity in NFT’s
 	- Interactive (Push button animations)
 	- Triggered when 2 or more in 1 collection 
 - Mutable attributes depending on specific source
-	- Blockchain gas fees
+	- Blockchain Gas fees
 	- Date
+  		- Zodiac 
  		- Seasons
 		- Migration Patterns
+  	- Location
 - Special trading restrictions
+	- Random Generated
 	- Can only be traded on specific days like full moons***
 	- Can only be traded at specific times of the day afternoon 11:11am to 1:11pm 
 
