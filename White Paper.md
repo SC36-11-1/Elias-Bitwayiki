@@ -282,7 +282,8 @@ Types of NFT’s
 
 - Mutable attributes depending on input
 	- Interactive (Push button animations)
-	- Triggered when 2 or more in 1 collection 
+	- Triggered when 2 or more in 1 collection
+ 	- Triggered by Number of users
 - Mutable attributes depending on specific source
 	- Blockchain Gas fees
 	- Time
