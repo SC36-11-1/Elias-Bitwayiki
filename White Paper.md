@@ -274,8 +274,8 @@ Types of NFT’s
 - Song + Animated Picture 
 
 **Levels of complexity in NFT’s **
-- Mutable when traded.     
-- Immutable (Unchanging) attached to blockchain recreateable (Static/Print)
+ - Immutable (Unchanging) attached to blockchain recreateable (Static/Print)
+ - Mutable when traded.    
 
 		DeafBeef entropy collection degrades and becomes fragmented with artifacts and distortion
   		**Attributes** can be anything ranging from colour shape design or sound of the nft
