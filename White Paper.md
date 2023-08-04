@@ -286,6 +286,7 @@ Types of NFT’s
  	- Triggered by Number of users
 - Mutable attributes depending on specific source
 	- Blockchain Gas fees
+ 	- IPv3 / IPv4
 	- Time
  	- Date
   		- Zodiac 
@@ -293,7 +294,7 @@ Types of NFT’s
 		- Migration Patterns
   	- Location
 - Special trading restrictions
-	- Random Generated
+	- Random Generated 
 	- Can only be traded on specific days like full moons***
 	- Can only be traded at specific times of the day afternoon 11:11am to 1:11pm 
 
