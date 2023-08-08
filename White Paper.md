@@ -287,12 +287,13 @@ Types of NFT’s
 - Mutable attributes depending on specific source
 	- Blockchain Gas fees
  	- IPv3 / IPv4
+	- Weather (Temperature, precipitation, ect..)
 	- Time
  	- Date
   		- Zodiac 
  		- Seasons
 		- Migration Patterns
-  	- Location
+  	- Location (longitude and latitude)
 - Special trading restrictions
 	- Random Generated 
 	- Can only be traded on specific days like full moons***
