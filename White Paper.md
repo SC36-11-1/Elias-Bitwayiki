@@ -287,7 +287,7 @@ Types of NFT’s
 - Mutable attributes depending on specific source
 	- Blockchain Gas fees
  	- IPv3 / IPv4
-	- Weather (Temperature, precipitation, Wind Direction ect..)
+	- Weather (Temperature, Precipitation, Wind Direction ect..)
 	- Time
  	- Date
   		- Zodiac 
