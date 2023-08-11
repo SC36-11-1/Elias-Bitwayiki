@@ -423,6 +423,7 @@ Collect your content and relevant data.
 
 ### Data.sets
 - Data.gov
+- [Zooniverse](https://www.zooniverse.org)
 - [GeoCache](https://api.groundspeak.com/documentation) 
 - FiveThirtyEight
 - Kaggle
