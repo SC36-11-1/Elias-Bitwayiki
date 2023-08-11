@@ -425,9 +425,8 @@ Collect your content and relevant data.
 - Data.gov
 - [Zooniverse](https://www.zooniverse.org)
 - [GeoCache](https://api.groundspeak.com/documentation) 
-- FiveThirtyEight
-- Kaggle
-- Data.World
-- DataSetSearch.Research.Google.com 
-- Noaa.gov/data-Ed-presentation-2020
+- [Kaggle](https://www.kaggle.com)
+- [Data.World](https://data.world)
+- [DataSetSearch.Research.Google.com](https://datasetsearch.research.google.com) 
+- [Noaa.gov/data-Ed-presentation-2020](https://www.noaa.gov/education/resource-collections/data-resources-for-educators/video-tour)
 
