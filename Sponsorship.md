@@ -19,13 +19,13 @@ Gitcoin Grants
 Waves Grants Program
 Chainlink’s Grant Programs
 EU’s NGI Research and Innovation Actions
-ETHPrize
-The Stable Fund
-ZCash Foundation’s Grant Program
-Stacks Grant Program
-Algorand Foundation
-Solana Foundation Grants Program
-Akash Developer Program and Community Fund
+ETHPrize http://ethprize.io/#about
+The Stable Fund https://docs.ethhub.io/other/funds/stable-fund/
+ZCash Foundation’s Grant Program https://zfnd.org/grants/
+Stacks Grant Program https://grants.stacks.org/
+Algorand Foundation https://algorand.foundation/grants-program
+Solana Foundation Grants Program https://solana.com/grants
+Akash Developer Program and Community Fund https://forum.akash.network/t/proposal-developer-program-and-community-fund/541
 
 
 CrunchBase - UnicORN List ✨
