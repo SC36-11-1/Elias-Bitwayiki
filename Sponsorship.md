@@ -62,7 +62,7 @@ websites: Crowdfunding is a great way to quickly raise funds for your business. 
 7. Build a connection over time. A good relationship always starts with a strong foundation. Take time to get to know your potential sponsor and build a connection over shared values and concerns.  
 8. Follow up. Whether it’s a problem of timing or funding, sometimes a “no” is just a “no for right now”. It’s worthwhile keeping these contacts on hand to follow up with in the future.
 
-Assets
+# Assets
 * A successful fundraiser (e.g., walk, run, gala, etc.). 
 * A large donor [or membership] base. 
 * A large, engaged following on social-media sites. 
@@ -73,14 +73,14 @@ Assets
 * Vendors that value their relationship with you. 
 * A strong, emotional mission. Do you serve kids? Do you save puppies from the pound? Do you help wounded soldiers returning from Afghanistan? 
 
-Defining Your Audience
+# Defining Your Audience
 * Social media analytics: Metrics like impressions, engagement, and reach are important here. If you have a strong social following or high engagement with your content, show this to your sponsors.  
 * Demographic information: Use information like age, location, occupation, education, etc. to segment your audience into valuable groups.
 * Membership engagement surveys: Engagement surveys can be a great source of data. They can reveal your audience’s interests, needs, and wants. Use this information to position your sponsorship pitch and show how a sponsorship would be a great match.
 * Google Analytics: Page visits, website traffic, and popular pages are all examples of the kind of information you can find through Google Analytics that can sculpt the profile of your audience. 
 *  Post-event surveys: Another kind of survey, but this hones in on what has made your past events a success. Use this information to understand what your audience likes and how your sponsor can provide value.
 
-Key Components 
+# Key Components 
 * Your programs and services 
 * Your mission statement and values 
 * Data about your following/supporters/donor base including demographics 
