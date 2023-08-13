@@ -74,6 +74,7 @@ websites: Crowdfunding is a great way to quickly raise funds for your business. 
 * A strong, emotional mission. Do you serve kids? Do you save puppies from the pound? Do you help wounded soldiers returning from Afghanistan? 
 
 # Defining Your Audience
+[Socail Blade](https://socialblade.com)
 * Social media analytics: Metrics like impressions, engagement, and reach are important here. If you have a strong social following or high engagement with your content, show this to your sponsors.  
 * Demographic information: Use information like age, location, occupation, education, etc. to segment your audience into valuable groups.
 * Membership engagement surveys: Engagement surveys can be a great source of data. They can reveal your audience’s interests, needs, and wants. Use this information to position your sponsorship pitch and show how a sponsorship would be a great match.
