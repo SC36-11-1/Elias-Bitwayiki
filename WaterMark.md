@@ -130,30 +130,31 @@ How to Get Sponsored: $50K in 4 Weeks - Foundr
 	6. Marketing Manager
 	7. General Manager
 
- Manager / Agent/ Talent Agency
-	NeoReach
-	Viral Nation
-	The Influencer Marketing Factory
-	Central Entertainment Group
-	Champion Celebrity Talent Agency 
-	Colossal Influence
-	INF Influencer Agency
-	The Ministry of Talent
-	Pulse Advertising
-	Re6l
-	Shade
-	Shine
-	Sixteenth
-	TwentyTwoTalent
-	A3 Artist Agency
-	United Talent Agency
-	GushCloud
+- Manager / Agent/ Talent Agency
+	- NeoReach
+	- Viral Nation
+	- The Influencer Marketing Factory
+	- Central Entertainment Group
+	- Champion Celebrity Talent Agency 
+	- Colossal Influence
+	- INF Influencer Agency
+	- The Ministry of Talent
+	- Pulse Advertising
+	- Re6l
+	- Shade
+	- Shine
+	- Sixteenth
+	- TwentyTwoTalent
+	- A3 Artist Agency
+	- United Talent Agency
+	- GushCloud
 
-	- Q1- JAN, *FEB*, MAR
-	- Q2- APR, *MAY*, JUN
-	- Q3- JUL, *AUG*, SEPT
-	- Q4- OCT, *NOV*, DEC
-	- Start/End Of quarter best time to apply middle of the quarter
+
+			- Q1- JAN, *FEB*, MAR
+			- Q2- APR, *MAY*, JUN
+			- Q3- JUL, *AUG*, SEPT
+			- Q4- OCT, *NOV*, DEC
+			- Start/End Of quarter best time to apply middle of the quarter
 * Banks
 * Hotels
 * Grocery chains
