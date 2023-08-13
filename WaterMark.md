@@ -105,16 +105,16 @@ Category talk:Companies based in Ontario - Wikipedia
 Canadian brand Top 40 - Canadian Business - Your Source For Business News
 How to Get Sponsored: $50K in 4 Weeks - Foundr
 
-	Editor Thumbnail
-	Production
-	Creative 
-	Adsense
-	Brand Deal 1
-	Brand Deal 2  Apparel
-	Content Syndication
-	Consumer Goods
-	PayWall services1 (Patreon, Fansly,)
-	Membership (twitch Prime/Subs, Youtube Membership)
+	1. Editor Thumbnail
+	2. Production
+	3. Creative 
+	4. Adsense
+	5. Brand Deal 1
+	6. Brand Deal 2  Apparel
+	7. Content Syndication
+	8. Consumer Goods
+	9. PayWall services1 (Patreon, Fansly,)
+	10. Membership (twitch Prime/Subs, Youtube Membership)
 
 # Types of Sponsorships
 	Depending on your needs, there are several different types of sponsorships that can help you with your next event:
