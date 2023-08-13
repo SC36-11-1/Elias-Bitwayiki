@@ -19,7 +19,7 @@
 ## Crowdfunding:
 websites: Crowdfunding is a great way to quickly raise funds for your business. You essentially get funded by many different anonymous people in return for equity. While [GoFundMe](https://www.gofundme.com/en-ca) and [Kickstarter](https://www.kickstarter.com/) are great for product-based startups, most new startups go through seed-based crowdfunding rounds on websites like:
 
-## Angel Investors
+## Angel Investors:
 [Angel Investors](https://hardbacon.ca/en/investing/the-top-36-angel-investors-in-canada-for-2021/)
 
 ## Loans:
