@@ -1,5 +1,5 @@
-### Marketing Stunts / Advertisement 
-# User Experience Research Link* Baseline Foundation QR-CODED
+# Marketing Stunts / Advertisement 
+### User Experience Research Link* Baseline Foundation QR-CODED
 
 - [Epalls](https://www.epal.gg)
 - Reddit
