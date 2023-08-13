@@ -149,7 +149,7 @@ How to Get Sponsored: $50K in 4 Weeks - Foundr
 	- United Talent Agency
 	- GushCloud
 
-			- Start/End Of quarter best time to apply middle of the quarter
+			Start/End Of quarter best time to apply middle of the quarter
 			- Q1- JAN, *FEB*, MAR
 			- Q2- APR, *MAY*, JUN
 			- Q3- JUL, *AUG*, SEPT
