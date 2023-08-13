@@ -1,20 +1,17 @@
 ### Marketing Stunts / Advertisement 
 
-User Experience Research Link* Baseline Foundation QR-CODED
-Epalls 
-https://www.epal.gg
+## User Experience Research Link* Baseline Foundation QR-CODED
 
-Reddit
-Twitter 
-YouTube
-Facebook
-Local Paper / Radio 
-Bulletin Board @ School / Sheridan 
-
-
-Twitch 
-	Promotional Event 
-	Advertisement Event Stream
+- [Epalls](https://www.epal.gg)
+- Reddit
+- Twitter 
+- YouTube
+- Facebook
+- Local Paper / Radio 
+- Bulletin Board @ School / Sheridan 
+- Twitch
+	- Promotional Event 
+	- Advertisement Event Stream
 		- Flyer Distribution
 		- News Paper Adverts
 		- Bulletin bored
@@ -26,7 +23,6 @@ websites: Crowdfunding is a great way to quickly raise funds for your business. 
 
 https://www.digitalocean.com/resources/article/learn-the-basics-of-seed-funding
 
-## Sponsorships:
 ## Grants
 (B2B companies should spend between 2% and 5% of their revenue on marketing
 
@@ -44,98 +40,10 @@ https://www.digitalocean.com/resources/article/learn-the-basics-of-seed-funding
 - [Solana Foundation Grants Program](https://solana.com/grants)
 - [Akash Developer Program and Community Fund](https://forum.akash.network/t/proposal-developer-program-and-community-fund/541)
 
+ 
+## Sponsorships:
 
-CrunchBase - UnicORN List ✨
- https://www.crunchbase.com/lists/unicorn-list/5ae6a6d1-a2db-4bc9-8717-7b71f441cdaa/identifiers
-
-
-
-Manager / Agent/ Talent Agency
-	NeoReach
-	Viral Nation
-	The Influencer Marketing Factory
-	Central Entertainment Group
-	Champion Celebrity Talent Agency 
-	Colossal Influence
-	INF Influencer Agency
-	The Ministry of Talent
-	Pulse Advertising
-	Re6l
-	Shade
-	Shine
-	Sixteenth
-	TwentyTwoTalent
-	A3 Artist Agency
-	United Talent Agency
-	GushCloud
-	
-Editor Thumbnail
-Production
-Creative 
-Adsense
-Brand Deal 1
-Brand Deal 2 Apparel
-Content Syndication
-Consumer Goods
-PayWall services1 (Patreon, Fansly,)
-Membership (twitch Prime/Subs, Youtube Membership)
- 
-
-# Types of Sponsorships
-	Depending on your needs, there are several different types of sponsorships that can help you with your next event:
-	1. Financial or cash - This is the most common type of sponsorship where cash is exchanged for benefits, perks, or publicity.  
-	2. In-kind - Similar to a financial or cash sponsorship, except goods or services are given instead of cash. It can come in the form of: 
-    * A venue partner  
-    * A prize sponsor 
-    * A food sponsor 
-    * A digital sponsor (social media filters, apps, media wall, etc) 
-	3. Media event - Helps provide support for promoting your event. Event sponsorship can be a media outlet giving a free advertisement or they can give money to help fund your advertising. 
-	4. Promotional partner - Similar to a media event sponsor, except in this case, it’s an individual boosting your event through their own channels. For example, a social media influencer could be a promotional partner. 
- 	5. Brand Manager
-	6. Marketing Manager
-	7. General Manager
-
- -Permanent logo
-
-Q1- JAN,FEB,MAR
-Q2- APR, MAY, JUN
-Q3- JUL, AUG, SEPT
-Q4- OCT, NOV, DEC
-Start/End Of quarter best time to apply middle of the quarter
-
-
-* Banks
-* Hotels
-* Grocery chains
-* Insurance companies
-* Food brands
-* Beer brands
-* Major retailers
-* Airlines
-
-Dange Dover	Pepsi	AT&T	Company
-Xouxou	Clif Bar	Les Schwab Tires	Tim Hortons
-Apple	Coca Cola	Home Depot	Westjet
-Dji	McDonald’s	Target	McCain Foods
-Crunchy roll	Kind Snacks	Toyota	Canadian Tire
-MauseCase	Starbucks	Walgreens	Jean Coutu Group
-Procreate	Chick-fil-A	Ace Hardware	Shoppers Drug Mart (Pharmaprix)
-Pelican	Buffalo Wild Wings	Nike	Bombardier Inc
-Cloudflare	Gatorade	Petro-Canada (Suncor Energy)	Saputo
-Makers Fair	Subway	BC Hydro	TD Bank
-LuLu Lemon	Dairy Queen		RONA
-Twitch			Rexall
-Hermes			
-		https://en.wikipedia.org/wiki/Category:Companies_based_in_Ontario	Husky Energy
-	Manitoba Hydro	Air Canada	Metro
-	Bank of Montreal	Scotiabank	Sobey’s
-	Loblaws	Manitoba Telecom Services	CIBC
-	Cott	Cenovus	Air Transat
-	Magna International	Manulife	Canadian Natural Resources
-	Shaw Communications	BlackBerry	Potash Corp
-	EnCana Corporation	National Bank of Canada	Maple Leaf Foods
-	Royal Bank of Canada	Power Corp Of Canada	Sun Life Financial
-	Alimentation Couche-Tard (Mac’s)	Telus Corporation	
+[CrunchBase - UnicORN List ✨](https://www.crunchbase.com/lists/unicorn-list/5ae6a6d1-a2db-4bc9-8717-7b71f441cdaa/identifiers)
 
 1. Research potential sponsors. Look at your existing supporters. Evaluate each one to see if their goal and interests align with your values and audience—or if they could help you find other new sponsors. 
 2. Tell your organization's story. What makes your organization special? Define your key pitch elements and weave them together to tell a story that will appeal to potential sponsors. 
@@ -191,6 +99,93 @@ https://archive.canadianbusiness.com/canadian-brand-top-40-ranking/
 Category talk:Companies based in Ontario - Wikipedia
 Canadian brand Top 40 - Canadian Business - Your Source For Business News
 How to Get Sponsored: $50K in 4 Weeks - Foundr
+
+	Editor Thumbnail
+	Production
+	Creative 
+	Adsense
+	Brand Deal 1
+	Brand Deal 2  Apparel
+	Content Syndication
+	Consumer Goods
+	PayWall services1 (Patreon, Fansly,)
+	Membership (twitch Prime/Subs, Youtube Membership)
+
+# Types of Sponsorships
+	Depending on your needs, there are several different types of sponsorships that can help you with your next event:
+	1. Financial or cash - This is the most common type of sponsorship where cash is exchanged for benefits, perks, or publicity.  
+	2. In-kind - Similar to a financial or cash sponsorship, except goods or services are given instead of cash. It can come in the form of: 
+    * A venue partner  
+    * A prize sponsor 
+    * A food sponsor 
+    * A digital sponsor (social media filters, apps, media wall, etc) 
+	3. Media event - Helps provide support for promoting your event. Event sponsorship can be a media outlet giving a free advertisement or they can give money to help fund your advertising. 
+	4. Promotional partner - Similar to a media event sponsor, except in this case, it’s an individual boosting your event through their own channels. For example, a social media influencer could be a promotional partner. 
+ 	5. Brand Manager
+	6. Marketing Manager
+	7. General Manager
+
+ Manager / Agent/ Talent Agency
+	NeoReach
+	Viral Nation
+	The Influencer Marketing Factory
+	Central Entertainment Group
+	Champion Celebrity Talent Agency 
+	Colossal Influence
+	INF Influencer Agency
+	The Ministry of Talent
+	Pulse Advertising
+	Re6l
+	Shade
+	Shine
+	Sixteenth
+	TwentyTwoTalent
+	A3 Artist Agency
+	United Talent Agency
+	GushCloud
+
+- Q1- JAN, *FEB*, MAR
+- Q2- APR, *MAY*, JUN
+- Q3- JUL, *AUG*, SEPT
+- Q4- OCT, *NOV*, DEC
+- Start/End Of quarter best time to apply middle of the quarter
+
+* Banks
+* Hotels
+* Grocery chains
+* Insurance companies
+* Food brands
+* Beer brands
+* Major retailers
+* Airlines
+
+Dange Dover	Pepsi	AT&T	Company
+Xouxou	Clif Bar	Les Schwab Tires	Tim Hortons
+Apple	Coca Cola	Home Depot	Westjet
+Dji	McDonald’s	Target	McCain Foods
+Crunchy roll	Kind Snacks	Toyota	Canadian Tire
+MauseCase	Starbucks	Walgreens	Jean Coutu Group
+Procreate	Chick-fil-A	Ace Hardware	Shoppers Drug Mart (Pharmaprix)
+Pelican	Buffalo Wild Wings	Nike	Bombardier Inc
+Cloudflare	Gatorade	Petro-Canada (Suncor Energy)	Saputo
+Makers Fair	Subway	BC Hydro	TD Bank
+LuLu Lemon	Dairy Queen		RONA
+Twitch			Rexall
+Hermes			
+
+https://en.wikipedia.org/wiki/Category:Companies_based_in_Ontario	
+
+Husky Energy,
+Manitoba Hydro,	Air Canada,	Metro,
+Bank of Montreal,	Scotiabank,	Sobey’s,
+Loblaws,	Manitoba Telecom Services,	CIBC,
+Cott,	Cenovus	Air Transat,
+Magna International,	Manulife,	Canadian Natural Resources,
+Shaw Communications, BlackBerry,	Potash Corp,
+EnCana Corporation,	National Bank of Canada,	Maple Leaf Foods,
+Royal Bank of Canada,	Power Corp Of Canada,	Sun Life Financial,
+Alimentation Couche-Tard (Mac’s),	Telus Corporation,	
+
 
 Anime & Manga / Product Placement
 
