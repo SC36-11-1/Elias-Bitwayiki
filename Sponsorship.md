@@ -13,19 +13,19 @@ https://www.digitalocean.com/resources/article/learn-the-basics-of-seed-funding
 ## Grants
 (B2B companies should spend between 2% and 5% of their revenue on marketing
 
-- (Web3 Foundation)[https://grants.web3.foundation/]
-- (Ecosystem Support Program)[https://esp.ethereum.foundation/en/]
-- (Gitcoin Grants)[https://gitcoin.co/grants/explorer/]
-- (Waves Grants Program)[https://waveslabs.com/?lang=en]
-- (Chainlink’s Grant Programs)[https://chain.link/community/grants#apply-for-a-grant]
-- (EU’s NGI Research and Innovation Actions)[https://www.ngi.eu/opencalls/]
-- (ETHPrize)[http://ethprize.io/#about]
-- (The Stable Fund)[https://docs.ethhub.io/other/funds/stable-fund/]
-- (ZCash Foundation’s Grant Program)[https://zfnd.org/grants/]
-- (Stacks Grant Program)[https://grants.stacks.org/]
-- (Algorand Foundation)[https://algorand.foundation/grants-program]
-- (Solana Foundation Grants Program)[https://solana.com/grants]
-- (Akash Developer Program and Community Fund)[https://forum.akash.network/t/proposal-developer-program-and-community-fund/541]
+- [Web3 Foundation](https://grants.web3.foundation/)
+- [Ecosystem Support Program](https://esp.ethereum.foundation/en/)
+- [Gitcoin Grants](https://gitcoin.co/grants/explorer/)
+- [Waves Grants Program](https://waveslabs.com/?lang=en)
+- [Chainlink’s Grant Programs](https://chain.link/community/grants#apply-for-a-grant)
+- [EU’s NGI Research and Innovation Actions](https://www.ngi.eu/opencalls/)
+- [ETHPrize](http://ethprize.io/#about)
+- [The Stable Fund](https://docs.ethhub.io/other/funds/stable-fund/)
+- [ZCash Foundation’s Grant Program](https://zfnd.org/grants/)
+- [Stacks Grant Program](https://grants.stacks.org/)
+- [Algorand Foundation](https://algorand.foundation/grants-program)
+- [Solana Foundation Grants Program](https://solana.com/grants)
+- [Akash Developer Program and Community Fund](https://forum.akash.network/t/proposal-developer-program-and-community-fund/541)
 
 
 CrunchBase - UnicORN List ✨
