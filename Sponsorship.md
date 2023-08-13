@@ -1,6 +1,23 @@
 ### Marketing Stunts / Advertisement 
 
 User Experience Research Link* Baseline Foundation QR-CODED
+Epalls 
+https://www.epal.gg
+
+Reddit
+Twitter 
+YouTube
+Facebook
+Local Paper / Radio 
+Bulletin Board @ School / Sheridan 
+
+
+Twitch 
+	Promotional Event 
+	Advertisement Event Stream
+		- Flyer Distribution
+		- News Paper Adverts
+		- Bulletin bored
 
 ## Crowdfunding:
 websites: Crowdfunding is a great way to quickly raise funds for your business. You essentially get funded by many different anonymous people in return for equity. While GoFundMe and Kickstarter are great for product-based startups, most new startups go through seed-based crowdfunding rounds on websites like:
@@ -31,23 +48,7 @@ https://www.digitalocean.com/resources/article/learn-the-basics-of-seed-funding
 CrunchBase - UnicORN List ✨
  https://www.crunchbase.com/lists/unicorn-list/5ae6a6d1-a2db-4bc9-8717-7b71f441cdaa/identifiers
 
-Epalls 
-https://www.epal.gg
 
-Reddit
-Twitter 
-YouTube
-Facebook
-Local Paper / Radio 
-Bulletin Board @ School / Sheridan 
-
-
-Twitch 
-	Promotional Event 
-	Advertisement Event Stream
-		- Flyer Distribution
-		- News Paper Adverts
-		- Bulletin bored
 
 Manager / Agent/ Talent Agency
 	NeoReach
@@ -80,19 +81,19 @@ PayWall services1 (Patreon, Fansly,)
 Membership (twitch Prime/Subs, Youtube Membership)
  
 
-Types of Sponsorships
-Depending on your needs, there are several different types of sponsorships that can help you with your next event:
-1. Financial or cash - This is the most common type of sponsorship where cash is exchanged for benefits, perks, or publicity.  
-2. In-kind - Similar to a financial or cash sponsorship, except goods or services are given instead of cash. It can come in the form of: 
+# Types of Sponsorships
+	Depending on your needs, there are several different types of sponsorships that can help you with your next event:
+	1. Financial or cash - This is the most common type of sponsorship where cash is exchanged for benefits, perks, or publicity.  
+	2. In-kind - Similar to a financial or cash sponsorship, except goods or services are given instead of cash. It can come in the form of: 
     * A venue partner  
     * A prize sponsor 
     * A food sponsor 
     * A digital sponsor (social media filters, apps, media wall, etc) 
-3. Media event - Helps provide support for promoting your event. Event sponsorship can be a media outlet giving a free advertisement or they can give money to help fund your advertising. 
-4. Promotional partner - Similar to a media event sponsor, except in this case, it’s an individual boosting your event through their own channels. For example, a social media influencer could be a promotional partner. 
- Brand Manager
-Marketing Manager
-General Manager
+	3. Media event - Helps provide support for promoting your event. Event sponsorship can be a media outlet giving a free advertisement or they can give money to help fund your advertising. 
+	4. Promotional partner - Similar to a media event sponsor, except in this case, it’s an individual boosting your event through their own channels. For example, a social media influencer could be a promotional partner. 
+ 	5. Brand Manager
+	6. Marketing Manager
+	7. General Manager
 
  -Permanent logo
 
