@@ -24,7 +24,7 @@ websites: Crowdfunding is a great way to quickly raise funds for your business. 
 ## Loans:
 
 
-## Grants
+## Grants:
 [Digital Ocean Basics Of Seed Funding](https://www.digitalocean.com/resources/article/learn-the-basics-of-seed-funding)
 
 (B2B companies should spend between 2% and 5% of their revenue on marketing
