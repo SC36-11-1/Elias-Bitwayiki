@@ -195,8 +195,6 @@ Migraine Art research / BCI EEG /
 Ai Generated Art {dynamic}
 Biometric Generated Art
 
-![IMG_5606](https://github.com/SC36-11-1/Elias-Bitwayiki/assets/133059820/49f28efd-e02b-4675-8b0c-f1f2508a0e9e)
-
 ### Physical
 (Insert infographic business analysis)
 - Vlog Work Blog IRL
