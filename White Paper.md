@@ -490,11 +490,11 @@ There are many different types of biometrics in this paper. I am going to highli
 - Censorship Resistance
 - DAO Tooling
 - Developer Tooling
-- Education☑️
+- Education✨
 - Payments / Solana Pay
 - Financial Inclusion
 - Climate Change
-- Academic Research☑️
+- Academic Research✨
   
 Infographic Set-up Guide 
 - Choose your desired infographic template.
@@ -535,4 +535,214 @@ Collect your content and relevant data.
 - [Data.World](https://data.world)
 - [DataSetSearch.Research.Google.com](https://datasetsearch.research.google.com) 
 - [Noaa.gov/data-Ed-presentation-2020](https://www.noaa.gov/education/resource-collections/data-resources-for-educators/video-tour)
+- 
+UI / UX / XR / XD 
+https://maker.ai
+    
+Research
+	Applied Research 
+		🟥Generative Exploration ✨
+		🟧Market Research 
+			Design Research
+				🟨Expert Review
+				🟧Stakeholder Interviews 
+				🟧Competitive Analysis 
+				🟦Analytics & Behavioral Tracking✨
+				🟦A/B Testing✨
+					User Research
+						🟧Field Observation✨
+						🟧User Interviews✨
+						🟧Surveys
+							User Testing✨
+								🟨In person Usability Testing
+								🟨Moderated/Unmoderated Remote Usability Testing
+								🟨Card Sort & Tree Testing
+								🟨Eye Tracking Studies
+🟥 Generative / Exploratory✨
+🟧 Descriptive and Explanatory✨
+🟨 Evaluative✨
+🟦 Casual✨
+
+User Research
+	Generative Research✨
+	Usability Testing	
+	Benchmarking
+	Beta Testing✨
+	Surveys	
+	Concept Training
+	Usability Testing 
+
+UX helps
+	Figure out problems users have with the interface
+	Find out users problems and needs
+	Create valuable and useful designs
+	Identify early adopters
+	Analyze the market to check if your product fits the niche	
+	Learn about competitors products
+	Validate your business ideas and hypotheses
+	Measure the return on investment (ROI) for your UX design
+	Ensure proper navigation and a trouble-free user experience
+
+User Research Influence
+	Accessability✨
+	Overall Experience Journey✨
+	Design Workflow Assessment
+	First Impressions
+	Usability
+	User Pain Point	
+	Key Terminology & Concepts
+	Mental Models✨
+	Broader Environment / Context
+	Target Users ✨
+
+https://whatfix.com/blog/types-of-technical-documentation/
+
+Cloud Practitioner 
+UX Design Specialist
+#Technicalwriting 
+
+YouTube
+Study Hall
+Intro to Human Communication: College Foundations, Arizona State University, Crash Course and Youtube have partnered to create video series for navigating college, plus online courses that are eligible for college credit!
+https://www.youtube.com/playlist?list=PLID58IQe16nFcsed5sqo0VfQUZ7EF8rqY
+
+Domestica
+
+https://youtu.be/9vXdJp4tZSk
+
+Coursera
+UX / UI Design Google
+Technical Writing
+Project Management
+
+
+
+
+
+Toronto University
+-ischool Masters Of Information 
+
+
+OCAD University
+
+Wilfrid Laurier University
+
+-	UX100 BV/WV-UX Design Thinking I: Foundations (Fall 2023) [Sample Qualifications]
+
+
+
+Visual Data + Analytics Data Sets
+
+Data.sets
+
+https://youtu.be/JcDnoEtsoCU 	(2023)
+
+Google data set search 
+Native Python Data sets
+	Scikit-Learn
+	Seaborn
+	Tensorflow
+Kaggle
+Datahub.io
+
+Data.gov
+
+Earth Data
+Gapminder
+Cern Open data Portal
+BFI film industry statistics
+
+FiveThirtyEight
+Kaggle
+Data.World
+DataSetSearch.Research.Google.com 
+Noaa.gov/data-Ed-presentation-2020
+
+Infographic Set-up Guide 
+- Choose your desired infographic template.
+    * Side-by-side comparison infographic:
+    * Flowchart infographic:
+    * Timeline infographic:
+    * Graph-based infographic:
+    * Image-heavy infographic:
+- Identify the audience for your infographic.
+    * A novice.
+    * A generalist
+    * A managerial
+    * An expert
+    * An executive
+- Collect your content and relevant data.
+    * Choosing your data
+    * Organising your data
+    * Citing your sources
+- Download your template to PowerPoint.
+- Customize your infographic.
+- Include a footer with your sources and logo.
+- Add an embed code and Pinterest button, and publish it.
+
+
+#Technicalwriting 
+
+
+Technical Articales
+Technical Guides and Manuals
+Poliveies and Procedures
+Business Plans
+Corporate Reports
+
+12 Types of Technical Documents
+* Product Manuals
+* Repair Manuals
+* User Guides
+* API Documentation
+* SDK Documentation
+* Project Plans
+* Business Standards
+* Test Schedules
+* Market Requirements Documentation
+* #WhitePapers ✨
+* Case Studies***✨
+* RFP’s & Proposals 
+
+Medium
+
+you must disclose somewhere in the post that it includes affiliate links. 
+
+1. Security
+2. BioMetrics
+
+1. Web 3.0
+2. NFT
+3. Blockchain Biometrics
+4. [Project Roadmap]
+5. White Paper 
+
+Using biometrics to authenticate on Web 3.0 for security purposes and safety benefits like nfts 
+
+Cryptocurrency Accounts, Posts, and Publications
+* Include a link to your active project domain in your user account bio.
+* Use an email address from that domain as your verified Medium account email, and maintain that email account actively.
+* Link at least one consistently-branded social media account (Facebook or Twitter) to your Medium account. That social account should also link out prominently to the same domain as is included in your Medium user bio.
+* Include a prominent about page with up-to-date contact information on your project website.
+
+https://help.medium.com/hc/en-us/articles/115011694187-Getting-started-with-the-Partner-Program
+* 		Make accessibility part of your day to day activity
+* 		Implement sufficient colour contrast
+* 		Use more than one variable to visually differentiate information
+* 		Apply instructions on form fields and text inputs
+* 		Make use of alternative text fields to describe information
+* 		Use formatting to give information hierarchy and structure
+* 		Interactive elements must be clearly distinguishable
+* 		Support keyboard navigation
+* 		Ensure interactive elements are large enough and in reach
+* 		Test, test, and test again
+* 		Make use of the tools and information available
+* 		Do the hard work so your customers don’t have to!
+
+Create Word press ✨🔮Psychic Experience review‼️
+	Add Dominoes Pizza Research Project
+	Public relations experience officer / agency
+
+https://youtube.com/@oxygenxml XML Editor
+
 
