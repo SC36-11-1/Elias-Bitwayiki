@@ -127,6 +127,74 @@ Generative Art is the process of using algorithmic processes as a medium for cre
 
 ## PROJECT ROADMAP
 
+#Emoji-Project 
+Client optional Picture
+Version 1 series 1 Covid edition 
+
+Emoji series
+-(Phase1)
+I made an emoji collage for my favourite streamers Content creators
+
+🎦 = B role Timelapse footage
+	Google search desktop
+	Download
+	Collaging
+	Printable Poster
+	Shopify Poster Store Launch (phase1)
+
+Collect fan art picture☑️
+Record emoji collage Creation🔘
+Edit video into 1-3 minute TikTok🔘
+Make YouTube Thumbnail🔘
+
+SssniperWolf✅🎦 Doja Cat✅ 39Daph✅
+Aloona ✅
+Pokimane✅🎦
+LillyPichu ✅
+QuarterJade✅
+Sydeon ✅
+Yvonnie✅
+Aria ✅
+Emiru Aug 7th 1 million followers ✅
+Sykkuno
+Valkyrae ✅
+xQc
+Fuslie ✅
+HaChubby ✅
+QTcinderella
+Ludwig
+Mizkif 
+Alinity
+Amouranth
+JustaMinx
+CodeMiko
+Sweet Anita 
+KyootBot
+Kiera Pleaze🎦
+SodaPoppin
+Sydsnap
+
+-(Phase2)
+I made trading cards out of my favourite streamers
+	health = current stream sub
+	attack = view count/videos/interactions
+	Special Effect = Top rated meme/CatchPhrase
+
+-(Phase3)
+conduct research on participants for interest in NFT ownership
+Bitcoin/NFT receipts Machine ATM/Camera Booth 
+
+-(Phase4)
+MeshLab
+augmented reality filter option
+
+-(Phase5)
+Blender 3D emoji background 
+Blender 3D scripting NFT
+Migraine Art research / BCI EEG /
+Ai Generated Art {dynamic}
+Biometric Generated Art
+
 ### Physical
 (Insert infographic business analysis)
 - Vlog Work Blog IRL
