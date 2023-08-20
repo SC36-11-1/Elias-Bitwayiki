@@ -704,7 +704,7 @@ Corporate Reports
 * Case Studies***✨
 * RFP’s & Proposals 
 
-Medium
+Mirror.xyz
 
 you must disclose somewhere in the post that it includes affiliate links. 
 
