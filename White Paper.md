@@ -174,9 +174,45 @@ Generative Art is the process of using algorithmic processes as a medium for cre
 #### Outdoor
 	Parks
 	Mixed Reality+AR+VR(Unlimited Online Entries)
-(Insert infographic)
 
-### Patreon
+### Crowd Funding KickStarter Self Publishing
+
+Book(s) + Podcast
+	-5 episode preview( Stereo) 
+
+Book Cover Art + PodCast Cover Art 
+( Calendar + Fox watch App )
+	
+### Kickstarter
+#### CrowsCrux
+### Indigogo 
+### Patreon✅
+### Go fund me 
+
+= Crypto Book / Manga 
+
+- Engaging Title and Subtitle
+- KickStarter Video
+- Images, Gifs engaging Materials 
+
+		Copy that gives a general outline or description of the plot/ topic/ concept of your book without giving it all away
+
+### Timeline 
+- Reward tiers
+	- 6-7 reward teirs
+- Funding Goals
+- Set campaign page
+	
+Publishing Cost(s)
+- https://www.writtenwordmedia.com/cost-to-self-publish/
+
+- Copyediting
+- Layout design
+- Printing
+- Distribution
+- Marketing
+
+## Patreon
 
 Tier 1
 📕Baseline Viewer🧶✨ £5 /
