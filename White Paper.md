@@ -395,13 +395,14 @@ Types of NFT’s
 	- Blockchain Gas fees
  	- IPv3 / IPv4
 	- Weather (Temperature, Precipitation, Wind Direction ect..)
-	- Time
+	- Time start /end times or Limited run time or view time or NFT
  	- Date
   		- Zodiac 
  		- Seasons
 		- Migration Patterns
   	- Location (longitude and latitude)
 - Special trading restrictions
+
 	- Random Generated 
 	- Can only be traded on specific days like full moons***
 	- Can only be traded at specific times of the day afternoon 11:11am to 1:11pm 
