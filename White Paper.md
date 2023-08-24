@@ -395,7 +395,7 @@ Types of NFT’s
 	- Blockchain Gas fees
  	- IPv3 / IPv4
 	- Weather (Temperature, Precipitation, Wind Direction ect..)
-	- Time start /end times or Limited run time or view time or NFT
+	- Time start /end times or Limited run time or view time or NFT / Length or time spent looking at/ interacting
  	- Date
   		- Zodiac 
  		- Seasons
