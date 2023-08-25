@@ -43,6 +43,8 @@ websites: Crowdfunding is a great way to quickly raise funds for your business. 
 - [Solana Foundation Grants Program](https://solana.com/grants)
 - [Akash Developer Program and Community Fund](https://forum.akash.network/t/proposal-developer-program-and-community-fund/541)
 
+[Crypto Artists Share How Web3 Tools Enable Diverse Art Market Experiments
+](https://www.forbes.com/sites/digital-assets/2023/05/01/crypto-artists-share-how-web3-tools-enable-diverse-art-market-experiments/?sh=21ad2d0764b0)
  
 ## Sponsorships:
 
