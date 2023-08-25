@@ -45,6 +45,13 @@ websites: Crowdfunding is a great way to quickly raise funds for your business. 
 
 [Crypto Artists Share How Web3 Tools Enable Diverse Art Market Experiments
 ](https://www.forbes.com/sites/digital-assets/2023/05/01/crypto-artists-share-how-web3-tools-enable-diverse-art-market-experiments/?sh=21ad2d0764b0)
+
+	Emerging Web3 technologies are emboldening old school artists to experiment with creative media in unique ways and distribute digital art through global, decentralized networks.
+
+	The creative economy represented 4.4 % of GDP, according to data published in 2021 by the National Endowment for the Arts and the Bureau of Economic Analysis, just over $1 trillion. And now the creative economy is also a fundamental cornerstone of the crypto economy. Countless EthereumETH 0.0%-friendly art collectives, in particular, are still growing their communities despite the bear market.
+
+ <img width="657" alt="Screen Shot 2023-08-25 at 9 20 36 AM" src="https://github.com/SC36-11-1/Elias-Bitwayiki/assets/133059820/28ab608c-e4c2-463f-9c69-55072184a6cc">
+
  
 ## Sponsorships:
 
