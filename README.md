@@ -9,6 +9,7 @@ issues. Extremely dynamic, able to work under pressure and
 
 ## 📜✨CERTIFICATIONS
 
+- Luxembourg Art Prize Certificate of Artistic Merit
 - Google UX / UI Design Certificate
 - Excellence in Customer Service Certified
 - Worker Health and Safety Awareness Certified
