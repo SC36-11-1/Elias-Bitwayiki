@@ -180,7 +180,7 @@ Character Archetype 3
   
   
 ### World
-– Test City Invitation Only (Begining after MindUpload War caused network sectioning)
+Newly Completed Tech City Invitation Only after MindUpload War caused network sectioning)
 – Everyone is assessed at birth tech allows you to see estrogen and testosterone levels Pink,
 purple, blue, Mete.
 – Muxe, Non Conforming, Outliers
@@ -257,6 +257,10 @@ Druid cult (nature)
 Crowns
 ( anointed ones) visible floating crown custom made special from your god of choice to signify you spiritual achievements. Difficult trails/test = Spirits grant Benefits & offerings to show respect
 High ranking leaders Outcast’s
+
+Vocabulary + Definitions 
+- Muxe
+
 
  1.synopsis
 2.script
