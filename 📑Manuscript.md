@@ -182,17 +182,17 @@ Character Archetype 3
 ### World
 Newly Completed Smart City Invitation Only to researchers to test tech
 *Post Singularity After MindUpload Wars caused by network sectioning post a.i.*
-– Everyone is assessed at birth tech allows you to see estrogen and testosterone levels Pink,
-purple, blue, Mete.
-– Muxe, Non Conforming, Outliers
-– Consent Tech
-– Christ Consciousness Presteiging through multiple deaths
-– Raining Puzzle Pieces of Ideas(Reboot warning incoming game) everyone fights for pieces of
-ideas to combine into big projects
-– “I just got an idea”
-– Level of idea based on level of chakra frequency
-– Multiple people can get same idea but not everyone has same ideas due to some
-people sleeping
+
+	– Everyone is assessed at birth tech allows you to see estrogen and testosterone levels Pink, purple, blue.
+	- Non Conforming, Outliers
+	– Consent Tech
+	– Christ Consciousness Presteiging through multiple deaths
+		-(Dali lama type / Harry Potter House selecting)
+	- Societal 
+ 	– Raining Puzzle Pieces of Ideas(Reboot warning incoming game) everyone fights for pieces of ideas to combine into big projects
+	– “I just got an idea”
+	– Level of idea based on level of chakra frequency
+	– Multiple people can get same idea but not everyone has same ideas due to some people sleeping
 – projects that make money all being different
 – Social credit score
 – Players Vs Environment ( Spiritual Government Creative Based Payout Bountied ) (Pink high estrogen (boobs hips figure) Blue High Testosterone Muscular)
