@@ -1,6 +1,46 @@
-Manuscript 
-Manga
+# Manuscript 
+>Hybrid Combination Graphic Novel or Illustrated Book: 
+	- Manuscript
+	- Manga
+	- Manhwa
+	- Comic
+>Artistic Style
+>- Multiple Collaborations Each page/Panel
+>- Multiple A.i. Assistants 
+>Cultural Influences
+>- Eastern
+>- Western
+
+           Reading Direction
+           - Traditional Manhwa ( Western Style)
+
+Narrative Structure
+- Data Visualizations
+- Words
+- Symbols/Images
+Incorporation of Panels and Layouts
+Genre Flexibility
+	Traditional:
+- Science Fiction and Fantasy:
+- Non-fiction
+- Young Adult (YA) Fiction
+- Mystery/Digital Thriller
+	Emerging Niche Genres (leading up to 2022):
+- Genre-Blending:
+- Interactive Fiction or Transmedia:
+- Biopunk:
+- New Weird:
+- Social Science Fiction:
+- Cyberpunk:
+- Cli-Fi (Climate Fiction):
+- Dystopian Science Fiction:
+- Speculative Fiction:
+Emphasis on Visual Storytelling 
+
+
+
 https://pastebin.com/7D7ZK7VQ
+
 (Web 3.0 E-Manga + NFT)(Digital Download(s) Calendar) *Series Royalties BuyOut Option*
 *pay to have character appearance maintenance* *voting Blockchain*
 Series
