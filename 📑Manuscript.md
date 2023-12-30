@@ -118,10 +118,9 @@ Waiver release form must be signed on purchase
 
 ### Concept Art:
 ### Character archetype 
+Character Archetype 1
 >*1-6 Pages ( 3 full page spreads/2 per character )*
 >
->Character Archetype 1
-
 	- Generative Artist
 	– Loves cheap keyboards (stacks of keyboards all under $20) 
 	– Fox cult member (TransHumans)(virtual overlay on fox mask for guest collaborations)
@@ -139,7 +138,8 @@ Waiver release form must be signed on purchase
 	– Neon Lights
 	– Projector
 
->Character archetype 2 6 Pages ( 3 full page spreads )
+Character archetype 2
+>*1-6 Pages ( 3 full page spreads/2 per character )*
 
 	– Lucky
 	– Neurotic
@@ -161,7 +161,8 @@ Waiver release form must be signed on purchase
 	– Indoor Laboratory Sterile Hammock
 	– [https://youtu.be/1RqBrl0-qOA]
  
-Character Archetype 3 6 Pages ( 3 full page spreads )
+Character Archetype 3
+>*1-6 Pages ( 3 full page spreads/2 per character )*
 
 	– Highest frequency overall ( psychic (social network))
 	– Snake cult
