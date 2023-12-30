@@ -74,7 +74,7 @@ https://pastebin.com/7D7ZK7VQ
 
 >- (Web 3.0 E-Document)
 >- (Dynamic NFT/Generative Art Influenced Story)
-	>-✨pay to influence characters *voting Blockchain*✨
+>-✨pay to influence characters *voting Blockchain*✨
 >- (Digital Download(s)) 
 >- (E-Calendar)
 >*✨Series Royalties BuyOut Option*✨
