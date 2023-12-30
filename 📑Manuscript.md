@@ -1,5 +1,5 @@
 # 📑✨ Manuscript 
-	Hybrid Combination Graphic Novel or Illustrated Book: 
+	Hybrid Combination Graphic Novel / Digital Document: 
 	- Manuscript
 	- Manga
 	- Manhwa
