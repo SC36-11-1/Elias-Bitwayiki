@@ -1,21 +1,4 @@
-# Elias-Bitwayiki
-Legal Entity 
-### Hi there 👋
 
-<!--
-**SC36-11-1/SC36-11-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 # KeyBase |
 # SC36-11-1@users.noreply.github.com | website: [LinkedIn](https://www.linkedin.com/in/36nibs/) + [Linktree](https://linktr.ee/36nibs)
@@ -26,6 +9,7 @@ issues. Extremely dynamic, able to work under pressure and
 
 ## 📜✨CERTIFICATIONS
 
+- Luxembourg Art Prize Certificate of Artistic Merit
 - Google UX / UI Design Certificate
 - Excellence in Customer Service Certified
 - Worker Health and Safety Awareness Certified
@@ -254,4 +238,10 @@ https://www.rom.on.ca/en
 > Even from a distance, art can bring us together. The support of our community has inspired the AGO in these unprecedented times, and by opening the virtual doors of the Gallery, we continue to share the joy and wonder of art.
 https://ago.ca
 
+THIS BELONGS TO 36NIBS
+
+
+
+
+🌸✨
 
