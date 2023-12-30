@@ -76,6 +76,7 @@ https://pastebin.com/7D7ZK7VQ
 Dynamic NFT/Generative Art Influenced Story, pay to influence characters voting Blockchain
 - Digital Download's
 - E-Calendar
+
 *✨Series Royalties BuyOut Option*✨*
 	
 Series
