@@ -180,31 +180,41 @@ Character Archetype 3
   
   
 ### World
-Newly Completed Smart City Invitation Only to researchers to test tech
-*Post Singularity After MindUpload Wars caused by network sectioning post a.i.*
+Newly Completed and Open Smart City Invitation Only to researchers
+*Post Singularity After MindUpload Wars caused by Technological Advancements, Hacking virus's and a.i. *
 
 	– Everyone is assessed at birth tech allows you to see estrogen and testosterone levels Pink, purple, blue.
 	- Non Conforming, Outliers
 	– Consent Tech
 	– Christ Consciousness Presteiging through multiple deaths
 		-(Dali lama type / Harry Potter House selecting)
-	- Societal 
- 	– Raining Puzzle Pieces of Ideas(Reboot warning incoming game) everyone fights for pieces of ideas to combine into big projects
-	– “I just got an idea”
-	– Level of idea based on level of chakra frequency
-	– Multiple people can get same idea but not everyone has same ideas due to some people sleeping
-– projects that make money all being different
+  		-Ego Death
+    		-Spiritual Death
+      		-Virtual Death
+	
+ ### Society
+ *Celebrates Intelegence Social Building Games Different types of Large Group Activities Through-out city Spiritual, Digital Physical/Virtual*
+
+- Raining Puzzle Pieces of Ideas(Reboot warning incoming game) 
+- Everyone fights for pieces of ideas to combine into big projects
+– Level of idea based on level of chakra frequency
+– Multiple people can get same idea but not everyone has same ideas due to some people sleeping
+	- Project/Idea Clarity based on Variables 
 – Social credit score
-– Players Vs Environment ( Spiritual Government Creative Based Payout Bountied ) (Pink high estrogen (boobs hips figure) Blue High Testosterone Muscular)
- 1. 2.
-3.
-Brain Frequency
-Heart Frequency levels
-1. Number of people on Frequency decrease the higher you go up (chakra levels) 1 to 7
-1+2+3 = Overall % Intelligence levels Strength
-Luck
-androgyny levels
-(Sliding scale -10 = looks most like opposite sex, 0, +10= text book genetics,)
+– Players Vs Environment ( Spiritual Government Creative Based Payout Bountied ) 
+
+- Pink High estrogen 
+- Blue High Testosterone
+- Brain Frequency levels
+- Heart Frequency levels
+- Number of people on Frequency decrease the higher you go up (chakra levels) 1 to 7
+1+2+3 = Overall %
+- Intelligence levels
+- Strength Levels
+- Luck Levels
+- Androgyny levels / Attraction Multiplyer (due to wider demographic)
+  
+*(Sliding scale -10 = looks most like opposite sex, 0, +10= text book genetics,)*
 
  
   
