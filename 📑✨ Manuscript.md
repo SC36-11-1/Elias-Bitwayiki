@@ -290,10 +290,11 @@ Acquisition editor
 		4. $10k @1 year anniversary
 		Royalties: % of Retail prices (After Exceeding Advance Quarterly Basis) https://youtu.be/
   
-tkWoiYHA3vg
-Hard Cover 10 %- 15 % 10% first 5000
-12.5% 2nd 5000
-15% After
-PaperBack 8% - 10%
-E-Book ?? - ??
+>Hard Cover
+>10 %- 15 %
+>10% 1sr 5000
+>12.5% 2nd 5000
+>15% After
+>PaperBack 8% - 10%
+>E-Book ?? - ??
  
