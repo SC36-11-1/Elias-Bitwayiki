@@ -92,15 +92,15 @@ Waiver release form must be signed on purchase
 >Due to the graphic language and graphic depictions in the book we can not be held liable for mind altering perceptions, inspirations, ideologies or any thoughts that spring forth after reading. Warning due to the authors condition the symbolism and images used may become deeply engrained in the mind of the reader.
 >Warning Heavily Psychokinetic Imagery is used.
 
->1 Volume = 180-220 Pages
->10 Chapters = 18-20 Pages
->Chapter 1 = 18 Page
->	Project Cover(Front/Back)
->	Artwork / 2nd Artwork
->	Contents
->	Story 1-10 Pages
->	Promotion Page 
->	Back Cover / inside
+>- 1 Volume = 180-220 Pages
+>- 10 Chapters = 18-20 Pages
+>- Chapter 1 = 18 Page
+>	- Project Cover(Front/Back)
+>	- Artwork / 2nd Artwork
+>	- Contents
+>	- Story 1-10 Pages
+>	- Promotion Page 
+>	- Back Cover / inside
 
 
 ## Modern day dark web princesse's
