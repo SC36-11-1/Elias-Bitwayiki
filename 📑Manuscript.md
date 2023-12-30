@@ -104,17 +104,17 @@ Waiver release form must be signed on purchase
 
 
 ## Modern day dark web princesse's
->Reason why Manga anime has been a part of my life for as long as I can remember. Artistic styles story telling the way information is provided with in-depth detail and info graphics about specific each character is something that creates a sense of deep immersion, and a pseudo sense of rapport with a 2D fictional character countless things to have in common blood type age or activities past time. I try to provide novel level descriptions with infographic visual data story telling style
+>Manga anime has been a part of my life for as long as I can remember. Artistic styles, story telling the way information is provided with in-depth detail and infographics about each specific character is something that creates a sense of deep immersion, and a pseudo sense of rapport with a 2D fictional character allowing for countless things to have in common like: blood type age or activities & past times. I try to provide novel level descriptions with infographic visual data story telling style
 
 ### Synopsis:
 >*Typical Slice of life *CyberPunk Style*
->3 main characters. While explaining the world and characters we follow along with the daily routines and tasks they each do. Educating and informing using Politically Correct and Updated terms while promoting average daily healthy life styles
+>3 main characters. While explaining the world and characters we follow along with the daily routines and tasks they each do. Educating and informing using Politically Correct and Updated to date terminology while promoting average daily healthy life styles
 >(Highly researched chapters will take long but will have a References website with linked applications visible on a NFT Document)
 
 ### Script: 
->Narration Dialog
->Work / daily tasks of characters
->Simple social conversation / interactions slice of life
+>- Narration Dialog
+>- Work / daily tasks of characters
+>- Simple social conversation / interactions slice of life
 
 ### Concept Art:
 ### Character archetype 
@@ -180,7 +180,8 @@ Character Archetype 3
   
   
 ### World
-Newly Completed Tech City Invitation Only after MindUpload War caused network sectioning)
+Newly Completed Smart City Invitation Only to researchers to test tech
+*Post Singularity After MindUpload Wars caused by network sectioning post a.i.*
 – Everyone is assessed at birth tech allows you to see estrogen and testosterone levels Pink,
 purple, blue, Mete.
 – Muxe, Non Conforming, Outliers
