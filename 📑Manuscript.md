@@ -1,48 +1,84 @@
-# Manuscript 
->Hybrid Combination Graphic Novel or Illustrated Book: 
+# 📑✨ Manuscript 
+	Hybrid Combination Graphic Novel or Illustrated Book: 
 	- Manuscript
 	- Manga
 	- Manhwa
 	- Comic
->Artistic Style
->- Multiple Collaborations Each page/Panel
->- Multiple A.i. Assistants 
->Cultural Influences
->- Eastern
->- Western
-
-           Reading Direction
-           - Traditional Manhwa ( Western Style)
-
-Narrative Structure
-- Data Visualizations
-- Words
-- Symbols/Images
-Incorporation of Panels and Layouts
-Genre Flexibility
-	Traditional:
-- Science Fiction and Fantasy:
-- Non-fiction
-- Young Adult (YA) Fiction
-- Mystery/Digital Thriller
-	Emerging Niche Genres (leading up to 2022):
-- Genre-Blending:
-- Interactive Fiction or Transmedia:
-- Biopunk:
-- New Weird:
-- Social Science Fiction:
-- Cyberpunk:
-- Cli-Fi (Climate Fiction):
-- Dystopian Science Fiction:
-- Speculative Fiction:
-Emphasis on Visual Storytelling 
-
+	Artistic Style
+	- Multiple Collaborations Each page/Panel
+	- Multiple A.i. Assistants 
+	Cultural Influences
+	- Eastern
+	- Western
+	Reading Direction
+	- Traditional Manhwa ( Western Style)
+	Narrative Structure
+	- Data Visualizations
+	- Words
+	- Symbols/Images
+	Incorporation of Panels and Layouts
+	Genre Flexibility
+	-Traditional:
+		- Science Fiction and Fantasy
+		- Non-fiction
+		- Young Adult (YA) Fiction
+		- Mystery/Digital Thriller
+	-Emerging Niche Genres (leading up to 2022):
+		- Genre-Blending
+		- Interactive Fiction or Transmedia
+		- Biopunk
+		- New Weird
+		- Social Science Fiction
+		- Cyberpunk
+		- Cli-Fi (Climate Fiction)
+		- Dystopian Science Fiction
+		- Speculative Fiction
+	Emphasis on Visual Storytelling
+	Author Goals
+	- Goal: Secure publishing deal with a traditional publishing house
+	- Motivation: Education Passion Project
+	Self-Publishing 
+	- Goal: Independence & control
+	- Motivation: Full creative control, Higher Royalty rates
+	Bestseller Status
+	- Sell 100 Copies
+	Establish Author Brand
+	- Establish Brand
+	- Create a loyal readership and establish myself as an authority in my genre
+	Financial Success
+	- Generate income through sales
+	- Supplement existing income
+	Writing Awards and Recognition
+	- Win at least 1 award / Contest / Publicly Published
+	Film/TV Adaptation
+	- Adaptations online
+	Impact and Changes
+	- Positive change
+	- Reference material
+	Teaching and Speaking Engagements
+	- Stream guests
+	Series or Franchise
+	- TBD✨
+	Networking and Collaborations
+	- Connect with Authors, Industry  Professionals and influencers
+	- Have fun meet good people
+	Personal Growth and Fulfillment
+	- Validate knowledge
+	International Recognition
+	- (Cross that bridge when we get to it)
+	Balancing Writing with Other Ventures
+	- Writing x Designing/Creating
 
 
 https://pastebin.com/7D7ZK7VQ
 
-(Web 3.0 E-Manga + NFT)(Digital Download(s) Calendar) *Series Royalties BuyOut Option*
-*pay to have character appearance maintenance* *voting Blockchain*
+>- (Web 3.0 E-Document)
+>- (Dynamic NFT/Generative Art Influenced Story)
+	>-✨pay to influence characters *voting Blockchain*✨
+>- (Digital Download(s)) 
+>- (E-Calendar)
+>*✨Series Royalties BuyOut Option*✨
+	
 Series
 Book 1 ( 6 months to 1 Year) Book 2 ( Build Traffic Vote)
 Agency book deal
