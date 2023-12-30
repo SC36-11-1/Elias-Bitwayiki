@@ -272,23 +272,23 @@ High ranking leaders Outcast’s
 Vocabulary + Definitions 
 - Muxe
 
+		1.Synopsis
+		2.Script
+		3.Concept art
+		4.Story board(page layout)
+		5.Editor narrative/visual/grammar 
+		6.Manga pages (assistance)
 
- 1.synopsis
-2.script
-3.concept art
-4.story board(page layout) 5.editor narrative/visual/grammar 6.Manga pages (assistance)
-Layout Penciling Inking
-Text
-Screen tones Scan/Colour
-   Draft
-2nd Payment.
-Acquisition editor - manuscript Copy Editor - Proof Reader / Editor
-$40k - Upfront Advance 3-4 cycle payments
-1. $10k @Signing
-2. $10k @Acceptance
-3. $10k @Publication
-4. $10k @1 year anniversary
-Royalties: % of Retail prices (After Exceeding Advance Quarterly Basis) https://youtu.be/
+Acquisition editor 
+- manuscript Copy Editor 
+- Proof Reader / Editor
+		
+		$40k - Upfront Advance 3-4 cycle payments
+		1. $10k @Signing
+		2. $10k @Acceptance
+		3. $10k @Publication
+		4. $10k @1 year anniversary
+		Royalties: % of Retail prices (After Exceeding Advance Quarterly Basis) https://youtu.be/
   
 tkWoiYHA3vg
 Hard Cover 10 %- 15 % 10% first 5000
