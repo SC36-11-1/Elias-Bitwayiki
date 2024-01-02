@@ -225,49 +225,55 @@ https://www.reddit.com/r/RetroFuturism/comments/7oh3m5/future_underground_city/
 - Industrial
 - Commercial( Closest to Creative (
 - Medical District, Hospitals,PsychWards corporations,)
-– Slums(due to creative burn out depression run away patients)
-– Private (Buildings sprinkled around)
-– Creative (Leads into Slums due to creatives abusing themselves)(always get a hospital bracelet tag if you’re gonna be outside or homeless so you are easily identified)
-– Post orgasm / pre orgasm mind state notification limits and warnings (build up meter up to, in, and out of the collective coherent community frequency brain wave states)
-– The goal of the city is to have a higher frequency than other cities, competing for creative titles and engagement, commerce, tourism, and travel+Population and copulation Forest Residential RedLight
-– Internet events (calendar centered )
-– Everyone uses computer / devices
-– Heavy Pollution Dense Areas Forced to build underground
-	(Self sustaining closed eco system)
-– Year ???? after the singularity Bio-hackers
-Cyborgs
-TransHumans
-– (After *mind upload* war/singularity )
-       
-–
-– –
-Schools
-– Company Classes
-– Creative District Assessment Provides Therapy / Training for drug use
-Estonia Type city Korea-ish
-Forest border Tech city + Creator District
-People are exploited ( cyber punk 2077)
-Self injection street life vs Professional Injection Society Life Pleasure devices
-Low birth rate
-Low Population
+- Slums(due to creative burn out depression run away patients)
+- Private (Buildings sprinkled around)
+- Creative (Leads into Slums due to creatives abusing themselves)(always get a hospital bracelet tag if you’re gonna be outside or homeless so you are easily identified)
+- Post orgasm / pre orgasm mind state notification limits and warnings (build up meter up to, in, and out of the collective coherent community frequency brain wave states)
+- The goal of the city is to have a higher frequency than other cities, competing for creative titles and engagement, commerce, tourism, and travel+Population and copulation Forest Residential RedLight
+- Internet events (calendar centered )
+- Everyone uses computer / devices
+- Heavy Pollution Dense Areas Forced to build underground
+(Self sustaining closed eco system)
+- Year ???? after the singularity Bio-hackers
+- Cyborgs
+- TransHumans
+	- (After *mind upload* war/singularity )
+
+- Schools
+- Company Classes
+- Creative District Assessment Provides Therapy / Training for drug use
+	- Closed biosphere enviroment plant + Tech heavy / Community interaction cells
+  	- 
+	- Forest border Tech city + Creator District
+
 (Birthing Contracts from Companies for workers using manufactured sperm from employees of the month)
-– –
-–
-Layer 1 (Public Network ) Library wifi
-Transit HotSpot wifi
-Layer 2 (Commercial Network ) Street Lights / Traffic Lights
-ATM cameras Intersection Cameras Store Credit Network Religion / Temples
-Cults
-Layer 3 Health
-Weather Identity / Taxes Power Lines Network Nodes Water / Sewage
-(Military Police Guvernment Network)
- Snake cult (?)
-You have to learn the snake path because that’s how visions maneuver they don’t work in straight lines like, why else do you think the path winds and slithers the same way time travels as well as visions because not everything happens in a straight line time doesnt move in a straight line
-Fox cult (Art )
-Druid cult (nature)
-Crowns
-( anointed ones) visible floating crown custom made special from your god of choice to signify you spiritual achievements. Difficult trails/test = Spirits grant Benefits & offerings to show respect
-High ranking leaders Outcast’s
+- Low birth rate
+- Low Population
+
+
+- Layer 1 
+	- (Public Network ) Library wifi
+	- Transit HotSpot wifi
+- Layer 2 
+	- (Commercial Network ) Street Lights / Traffic Lights
+	- ATM cameras Intersection Cameras Store Credit Network Religion / Temples
+	- Cults
+- Layer 3 
+	- Health
+	- Weather / Taxes Power Lines Network Nodes Water / Sewage
+		- (Military Police Guvernment Network)
+
+- Snake cult (?)
+You have to learn the snake path because that’s how visions maneuver they don’t work in straight lines like, why else do you think the path winds and slithers the same way time travels as well as visions because not everything happens in a straight line time doesnt move in a straight line pas'ghetti 
+- Fox cult (Art )
+- Druid cult (nature)
+
+
+- Crowns
+( anointed ones) visible floating crown custom made special from your god of choice to signify you spiritual achievements. Difficult trails/test = Spirits grant Benefits & offerings to show respect 
+
+High ranking leaders 
+Outcast’s
 
 Vocabulary + Definitions 
 - Muxe
