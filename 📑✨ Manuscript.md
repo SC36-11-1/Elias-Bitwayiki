@@ -216,24 +216,24 @@ Newly Completed and Open Smart City Invitation Only to researchers
   
 *(Sliding scale -10 = looks most like opposite sex, 0, +10= text book genetics,)*
 
- 
-  
- https://www.reddit.com/r/RetroFuturism/comments/7oh3m5/future_underground_city/
-City Districts
-– Industrial
-– Commercial( Closest to Creative (
-– Medical District, Hospitals,PsychWards corporations,)
+
+https://www.reddit.com/r/RetroFuturism/comments/7oh3m5/future_underground_city/
+
+
+### City Districts
+
+- Industrial
+- Commercial( Closest to Creative (
+- Medical District, Hospitals,PsychWards corporations,)
 – Slums(due to creative burn out depression run away patients)
 – Private (Buildings sprinkled around)
-– Creative (Leads into Slums due to creatives abusing themselves)(always get a hospital
-bracelet tag if you’re gonna be outside or homeless so you are easily identified)
+– Creative (Leads into Slums due to creatives abusing themselves)(always get a hospital bracelet tag if you’re gonna be outside or homeless so you are easily identified)
 – Post orgasm / pre orgasm mind state notification limits and warnings (build up meter up to, in, and out of the collective coherent community frequency brain wave states)
-– The goal of the city is to have a higher frequency than other cities, competing for creative titles and engagement, commerce, tourism, and travel+Population and copulation
-Forest Residential RedLight
+– The goal of the city is to have a higher frequency than other cities, competing for creative titles and engagement, commerce, tourism, and travel+Population and copulation Forest Residential RedLight
 – Internet events (calendar centered )
 – Everyone uses computer / devices
 – Heavy Pollution Dense Areas Forced to build underground
-(Self sustaining closed eco system)
+	(Self sustaining closed eco system)
 – Year ???? after the singularity Bio-hackers
 Cyborgs
 TransHumans
