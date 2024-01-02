@@ -240,13 +240,13 @@ https://www.reddit.com/r/RetroFuturism/comments/7oh3m5/future_underground_city/
 	- (After *mind upload* war/singularity )
 
 - Schools
-- Company Classes
+	- Company Classes
 - Creative District Assessment Provides Therapy / Training for drug use
 	- Closed biosphere enviroment plant + Tech heavy / Community interaction cells
   	- 
 	- Forest border Tech city + Creator District
 
-(Birthing Contracts from Companies for workers using manufactured sperm from employees of the month)
+(Birthing Contracts from Companies for workers using manufactured dna for optimimal dna multiple companie varients for different type of job test tube/classical birth options with different incentives for parents raising company property)
 - Low birth rate
 - Low Population
 
