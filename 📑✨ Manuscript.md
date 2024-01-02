@@ -246,7 +246,7 @@ https://www.reddit.com/r/RetroFuturism/comments/7oh3m5/future_underground_city/
   	- 
 	- Forest border Tech city + Creator District
 
-(Birthing Contracts from Companies for workers using manufactured dna for optimimal dna multiple companie varients for different type of job test tube/classical birth options with different incentives for parents raising company property)
+>(Birthing Contracts from Companies for workers using manufactured dna for optimimal dna multiple companie varients for different type of job test tube/classical birth options with different incentives for parents raising company property)
 - Low birth rate
 - Low Population
 
