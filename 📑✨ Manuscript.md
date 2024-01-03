@@ -117,7 +117,9 @@ Waiver release form must be signed on purchase
 >- Simple social conversation / interactions slice of life
 
 ### Concept Art:
-### Character archetype 
+### Character archetype & Relationship
+>The three characters A,B and C are not related by blood but are residents and participants in a city social project to increat social divercity and understanding. foreign governments participate in the project to give select citizen the oppurtunity to be ambasadors of a global union project.
+
 Character Archetype 1
 >*1-6 Pages ( 3 full page spreads/2 per character )*
 >
@@ -270,12 +272,7 @@ https://www.reddit.com/r/RetroFuturism/comments/7oh3m5/future_underground_city/
 - Fox cult (Art)
 - Druid cult (Nature)
 
-
-- Crowns
-
-  		( anointed ones) visible floating crown custom made special from your god of choice to signify you spiritual achievements. Difficult trails/test = Spirits grant Benefits & offerings to show respect 
-
->High ranking leaders 
+>High ranking leaders of industries heads of thier respected catagory 
 >Outcast’s
 
 Vocabulary + Definitions 
