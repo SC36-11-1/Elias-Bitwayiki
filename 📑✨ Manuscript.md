@@ -197,8 +197,11 @@ Character Archetype 3
 
 ### Smart City 
 
-Newly Completed and Open Smart City Invitation Only to researchers
-*Post Singularity After MindUpload Wars caused by Technological Advancements, Hacking virus's and a.i. *
+>Newly Completed and Open Smart City Invitation Only to researchers
+>*Post Singularity After MindUpload Wars caused by Technological Advancements, Hacking virus's and a.i. *
+>Ethical Dilemmas contigent to exstensive multitude of research systems causing probability factors to become evident, increasing likely hood of existance within the city causing rinse / wash repetition
+>
+ 
 
 	– Everyone is assessed at birth tech allows you to see estrogen and testosterone levels Pink, purple, blue.
 	- Non Conforming, Outliers
