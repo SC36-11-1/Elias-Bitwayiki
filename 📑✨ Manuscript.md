@@ -117,8 +117,12 @@ Waiver release form must be signed on purchase
 >- Simple social conversation / interactions slice of life
 
 ### Concept Art:
-### Character archetype & Relationship
+### Character archetype 
+>Relationship:
 >The three characters A,B and C are not related by blood but are residents and participants in a city social project to increat social divercity and understanding. foreign governments participate in the project to give select citizen the oppurtunity to be ambasadors of a global union project.
+>
+>BackStories:
+>Each of the characters are as diverse and unique from eachother as can be they were referenced from a star system known as Algol, designated Beta Persei, known colloquially as the Demon Star, The Blinking Star referencing gorgon's like Medusa and her sisters: Stheno & Euryale, 
 
 Character Archetype 1
 >*1-6 Pages ( 3 full page spreads/2 per character )*
