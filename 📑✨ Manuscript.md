@@ -211,7 +211,21 @@ Character Archetype 3
   		-Ego Death
     		-Spiritual Death
       		-Virtual Death
-	
+
+### Technological Advancements:
+> intelligence with the support of algorithmic and automated assistance for deeper understanding of information in order to share findings and further enhance research to better adapt and be quicker to modify in crisis catastrophic malfunction and learning;
+> - Social development based and mental health focused on intelligence
+> - Woodland PvE (Monster of the week NFT)
+> 	- Mutated
+>    	- Experiments
+> - Post Uploadwars caused internet sanctioning and restricting through Gvirus questioning and Testing all algorithmic to further enhance social credit score point system
+> - Internet Liscense
+> - Organic Network Development due to Technological restrictions
+> - Cult publicization after synergy of the word religion due to constant editing and voting manipulation (Cult/Cultural guidlines Religion Origins dictate social approach)
+> - Search for harmony and resonance 
+
+
+
 
 ### City Districts
 
