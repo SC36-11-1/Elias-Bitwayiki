@@ -325,13 +325,57 @@ The episode introduces the three main characters, A, B, and C, as they embark on
 
 Vocabulary + Definitions 
 - Muxe
+- Digital Earth Citizen / Electronic Citizenship
+- Digital Identity
+- E-Citizen or E-Citizenship E-passport E-Residents E-Residencies all have to do with the same topic, identity and identifying /authenticating yourself electronically online or using the internet to verify your identity. Electronic Passports or E-Passports / Digital Passport and E-Citizen do not describe a citizen of earth but rather represent a digital identity or digital twin to represent yourself in the digital world as a resident of earth in the digital world as a Digital Earth-Resident (DER) and Digital Earth Citizen (DEC) (Insert infographic)
 
-		1.Synopsis
-		2.Script
-		3.Concept art
-		4.Story board(page layout)
-		5.Editor narrative/visual/grammar 
-		6.Manga pages (assistance)
+- Digital Twin
+	- A Digital Twin is a virtual representation of an object or system that spans its lifecycle is updated from real-time data and uses simulation machine learning and reasoning to help decision making. (Insert infographic)
+
+- EE-Residency
+	- Electronic Earth Residency and soon to come EM1-Residency and EM2-Residency (Electronic Moon 1 Residency Electronic Mars 2 Residency. (Insert infographic)
+
+- Financial Identity
+	- A Financial-Identity is defined as the values knowledge skills and behaviours that influence how people manage money to build personal or collective financial wellbeing. The things you buy and tax brackets that dictate your place in our modern capitalistic society (Insert infographic)
+
+- Blockchain Biometrics
+	= Blockchain Biometrics are going to be a key factor in digital identity pertaining to identification documents such as passports social insurance numbers health cards driver licenses and etc. Using the Blockchain as a medium to deter criminals and increase security and safety while at the same time making it impossible to fraudulently manipulate someones identity through the use of algorithms and biometrics
+
+- Blockchain
+	- Blockchain is defined as a ledger of decentralized data that is securely shared. Blockchain technology enables a collective group if select participants to share data with blockchain cloud services transactional data from multiple sources can be easily collected integrated and shared Data is broken up into shared blocks that are chained together with unique identifiers in the form of cryptographic hashes
+(Insert infographic)
+
+- Generative Art
+	- Generative Art is the process of using algorithmic processes as a medium for creating graphic art or animations it is primarily used in research and data visualization (Insert infographic)
+
+>Biometrics
+- There are many different types of biometrics in this paper. I am going to highlight and emphasize the ones that I think will be most impactful. The use of multiple devices in unison provide deeper levels of sensor-data as well as higher levels of accuracy in readings.
+
+- Brain Computer Interface - using electroencephalography BCI -EEG
+- Heart Rate monitor
+- Breathalyzer / CO Monitor - Breath quality
+- Breathalyzer Carbon Monoxide
+	- Lumen
+	- Body Temperature Monitor
+- Seismographs / Vibration Frequency Monitor
+- Eye tracker
+- Motion Sensorbad evolving backwards
+- Motion tracker‼️Kinect Good Good✨
+- Wifi Positioning Service (WPS) / Global Positioning Service (GPS)
+- Decibel Sensor
+- Muscle SensorFlex Meteor
+- Electromagnetic Field SensorEMF
+- Apple Watch (Apple Application Store locked biometrics)
+- Apple Air Tag (Apple Application Store locked biometrics)
+- Blood (Human Genome-code)
+
+
+1.Synopsis
+2.Script
+3.Concept art
+4.Story board(page layout)
+5.Editor narrative/visual/grammar 
+6.Manga pages (assistance)
 
 Acquisition editor 
 - manuscript Copy Editor 
