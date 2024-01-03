@@ -1,4 +1,5 @@
 # 📑✨ Manuscript 
+
 	Hybrid Combination Graphic Novel / Digital Document: 
 		- Manuscript
 		- Manga
@@ -73,6 +74,7 @@
 https://pastebin.com/7D7ZK7VQ
 
 # Web 3.0 E-Document
+
 Dynamic NFT/Generative Art Influenced Story, pay to influence characters voting Blockchain
 - Digital Download's
 - E-Calendar
@@ -103,21 +105,25 @@ Waiver release form must be signed on purchase
 >	- Back Cover / inside
 
 
-## Modern day dark web princesse's
+## TBD (Modern day dark web princesse's)
+
 >Manga anime has been a part of my life for as long as I can remember. Artistic styles, story telling the way information is provided with in-depth detail and infographics about each specific character is something that creates a sense of deep immersion, and a pseudo sense of rapport with a 2D fictional character allowing for countless things to have in common like: blood type age or activities & past times. I try to provide novel level descriptions with infographic visual data story telling style
 
 ### Synopsis:
+
 >*Typical Slice of life *CyberPunk Style*
 >3 main characters. While explaining the world and characters we follow along with the daily routines and tasks they each do. Educating and informing using Politically Correct and Updated to date terminology while promoting average daily healthy life styles
 >(Highly researched chapters will take long but will have a References website with linked applications visible on a NFT Document)
 
 ### Script: 
+
 >- Narration Dialog
 >- Work / daily tasks of characters
 >- Simple social conversation / interactions slice of life
 
 ### Concept Art:
 ### Character archetype 
+
 >Relationship:
 >The three characters A,B and C are not related by blood but are residents and participants in a city social project to increat social divercity and understanding. foreign governments participate in the project to give select citizen the oppurtunity to be ambasadors of a global union project.
 >
@@ -186,7 +192,9 @@ Character Archetype 3
   
   
 ## World
+
 ### Smart City 
+
 Newly Completed and Open Smart City Invitation Only to researchers
 *Post Singularity After MindUpload Wars caused by Technological Advancements, Hacking virus's and a.i. *
 
@@ -199,33 +207,6 @@ Newly Completed and Open Smart City Invitation Only to researchers
     		-Spiritual Death
       		-Virtual Death
 	
- ### Society
- *Celebrates Intelegence Social Building Games Different types of Large Group Activities Through-out city Spiritual, Digital Physical/Virtual*
-
-- Raining Puzzle Pieces of Ideas(Reboot warning incoming game) 
-- Everyone fights for pieces of ideas to combine into big projects
-– Level of idea based on level of chakra frequency
-– Multiple people can get same idea but not everyone has same ideas due to some people sleeping
-	- Project/Idea Clarity based on Variables 
-– Social credit score
-– Players Vs Environment ( Spiritual Government Creative Based Payout Bountied ) 
-
-- Pink High estrogen 
-- Blue High Testosterone
-- Brain Frequency levels
-- Heart Frequency levels
-- Number of people on Frequency decrease the higher you go up (chakra levels) 1 to 7
-1+2+3 = Overall %
-- Intelligence levels
-- Strength Levels
-- Luck Levels
-- Androgyny levels / Attraction Multiplyer (due to wider demographic)
-  
-*(Sliding scale -10 = looks most like opposite sex, 0, +10= text book genetics,)*
-
-
-https://www.reddit.com/r/RetroFuturism/comments/7oh3m5/future_underground_city/
-
 
 ### City Districts
 
@@ -269,6 +250,39 @@ https://www.reddit.com/r/RetroFuturism/comments/7oh3m5/future_underground_city/
 	- Health
 	- Weather / Taxes Power Lines Network Nodes Water / Sewage
 		- (Military Police Guvernment Network)
+
+
+
+### Society
+
+ *Celebrates Intelegence Social Building Games Different types of Large Group Activities Through-out city Spiritual, Digital Physical/Virtual*
+
+- Raining Puzzle Pieces of Ideas(Reboot warning incoming game) 
+- Everyone fights for pieces of ideas to combine into big projects
+– Level of idea based on level of chakra frequency
+– Multiple people can get same idea but not everyone has same ideas due to some people sleeping
+	- Project/Idea Clarity based on Variables 
+– Social credit score
+– Players Vs Environment ( Spiritual Government Creative Based Payout Bountied ) 
+
+- Pink High estrogen 
+- Blue High Testosterone
+- Brain Frequency levels
+- Heart Frequency levels
+- Number of people on Frequency decrease the higher you go up (chakra levels) 1 to 7
+1+2+3 = Overall %
+- Intelligence levels
+- Strength Levels
+- Luck Levels
+- Androgyny levels / Attraction Multiplyer (due to wider demographic)
+  
+*(Sliding scale -10 = looks most like opposite sex, 0, +10= text book genetics,)*
+
+
+https://www.reddit.com/r/RetroFuturism/comments/7oh3m5/future_underground_city/
+
+
+
 ### Cults
 - Snake cult (information/knowledge/wisdom of self )
 
