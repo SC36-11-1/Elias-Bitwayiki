@@ -348,8 +348,8 @@ Vocabulary + Definitions
 - Generative Art
 	- Generative Art is the process of using algorithmic processes as a medium for creating graphic art or animations it is primarily used in research and data visualization (Insert infographic)
 
->- Biometrics
->There are many different types of biometrics in this paper. I am going to highlight and emphasize the ones that I think will be most impactful. The use of multiple devices in unison provide deeper levels of sensor-data as well as higher levels of accuracy in readings.
+>Biometrics
+- There are many different types of biometrics in this paper. I am going to highlight and emphasize the ones that I think will be most impactful. The use of multiple devices in unison provide deeper levels of sensor-data as well as higher levels of accuracy in readings.
 
 - Brain Computer Interface - using electroencephalography BCI -EEG
 - Heart Rate monitor
