@@ -313,14 +313,14 @@ https://www.reddit.com/r/RetroFuturism/comments/7oh3m5/future_underground_city/
 >High ranking leaders of industries heads of thier respected catagory 
 >Outcast’s
 >
->### ChatGPT Sample Narrative Simulation: "Digital Chronicles"
+>### ChatGPT Edited Sample Narrative Simulation: "Digital Chronicles"
 
 Simulation 1: The NFT Unveiling
 
 The episode introduces the three main characters, A, B, and C, as they embark on their daily routines in the Smart City.
-A, a generative artist, completes a groundbreaking series of generative artworks, each uniquely tied to an NFT. [https://www.artblocks.io]
-B introduces readers to the NFT release schedule, on a dedicated platform directly tied to the book. Cohort Study(LifeStyle) / Live Stream [Data Driven Document Digital Download TBD Sample Reference: https://thevisualized.com ]  
-C Shows Viewers and immerses them in the city's unique culture, including its emphasis on technology, diverse districts, and birth assessments.[Data Driven Document Digital Download TBD Sample Reference: https://thevisualized.com ]  
+>A, a generative artist, completes a groundbreaking series of generative artworks, each uniquely tied to an NFT. [https://www.artblocks.io]
+>B introduces readers to the NFT release schedule, on a dedicated platform directly tied to the book. Cohort Study(LifeStyle) / Live Stream [Data Driven Document Digital Download TBD Sample Reference: https://thevisualized.com ]  
+>C Shows Viewers and immerses them in the city's unique culture, including its emphasis on technology, diverse districts, and birth assessments.[Data Driven Document Digital Download TBD Sample Reference: https://thevisualized.com ]  
 
 
 Vocabulary + Definitions 
