@@ -370,7 +370,7 @@ There are many different types of biometrics in this paper. I am going to highli
 - Seismographs / Vibration Frequency Monitor
 - Eye tracker
 - Motion Sensorbad evolving backwards
-- Motion tracker‼️Kinect Good Good✨
+- Motion tracker
 - Wifi Positioning Service (WPS) / Global Positioning Service (GPS)
 - Decibel Sensor
 - Muscle SensorFlex Meteor
