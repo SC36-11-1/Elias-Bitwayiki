@@ -185,7 +185,8 @@ Character Archetype 3
 		– Posters 
   
   
-### World
+## World
+### Smart City 
 Newly Completed and Open Smart City Invitation Only to researchers
 *Post Singularity After MindUpload Wars caused by Technological Advancements, Hacking virus's and a.i. *
 
