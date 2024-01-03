@@ -76,10 +76,16 @@ https://pastebin.com/7D7ZK7VQ
 # Web 3.0 E-Document
 
 >Interactive Fiction Elements:
-- Dynamic NFT/
+- Dynamic NFT
 - Generative Art Influenced Story, pay to influence characters voting Blockchain
 - Digital Download's
-- E-Calendar
+	- E-Calendar
+ 	- Generative Art Pallet
+  	- Web 3.0 Best Practices Online & Generative Art Safety Document
+  		- Securities Set Up
+  	 	- NFT Security Risks
+  	  	- NFT Safety Tips & Best Practices
+  	  	- Security Set-Up Check List
 
 *✨Series Royalties BuyOut Option*✨*
 	
