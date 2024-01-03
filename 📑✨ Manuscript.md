@@ -262,18 +262,21 @@ https://www.reddit.com/r/RetroFuturism/comments/7oh3m5/future_underground_city/
 	- Health
 	- Weather / Taxes Power Lines Network Nodes Water / Sewage
 		- (Military Police Guvernment Network)
+### Cults
+- Snake cult (information/knowledge/wisdom of self )
 
-- Snake cult (?)
-You have to learn the snake path because that’s how visions maneuver they don’t work in straight lines like, why else do you think the path winds and slithers the same way time travels as well as visions because not everything happens in a straight line time doesnt move in a straight line pas'ghetti 
-- Fox cult (Art )
-- Druid cult (nature)
+		You have to learn the snake path because that’s how visions maneuver moving like liquid they don’t work in straight lines like, why else do you think the path winds and slithers the same way time travels as well as visions because not everything happens in a straight line time doesnt move in a straight line pas'ghetti 
+
+- Fox cult (Art)
+- Druid cult (Nature)
 
 
 - Crowns
-( anointed ones) visible floating crown custom made special from your god of choice to signify you spiritual achievements. Difficult trails/test = Spirits grant Benefits & offerings to show respect 
 
-High ranking leaders 
-Outcast’s
+  		( anointed ones) visible floating crown custom made special from your god of choice to signify you spiritual achievements. Difficult trails/test = Spirits grant Benefits & offerings to show respect 
+
+>High ranking leaders 
+>Outcast’s
 
 Vocabulary + Definitions 
 - Muxe
