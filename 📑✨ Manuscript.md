@@ -215,9 +215,11 @@ Character Archetype 3
 ### Technological Advancements:
 > intelligence with the support of algorithmic and automated assistance for deeper understanding of information in order to share findings and further enhance research to better adapt and be quicker to modify in crisis catastrophic malfunction and learning;
 > - Social development based and mental health focused on intelligence
-> - Woodland PvE (Monster of the week NFT)
-> 	- Mutated
->    	- Experiments
+> - Woodland Forest Off-limits (Reference Off-limit Projects TBA)
+> 	- PvE (Dynamic Nft vs [World] )
+>  	- PvP (Cult vs Cult Location Alternate Reality Game Sticker RFID Sticker based)
+> 	- (Fox Mask NFT Watch App Game)
+> 	 
 > - Post Uploadwars caused internet sanctioning and restricting through Gvirus questioning and Testing all algorithmic to further enhance social credit score point system
 > - Internet Liscense
 > - Organic Network Development due to Technological restrictions
