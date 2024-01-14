@@ -343,14 +343,17 @@ The episode introduces the three main characters, A, B, and C, as they embark on
 	Section2: [Subtitle]
 	...
 	
-# * Introduction to the Book: Briefly explain the purpose and scope of the book.
-# * Author's Note: A personal message from the author regarding the importance of data visualization in understanding complex information.
-
+### * Introduction to the Book: 
+- Briefly explain the purpose and scope of the book.
+- 
+### * Author's Note: 
+- A personal message from the author
+- 
 	Simulation 0.1: [Chapter Title]
 	Alt Reality Sim Begin’s
 
-* Introduction: Establish the concept of the world using visuals to immerse the reader.
-* Manhwa Panels: Incorporate manhwa-style panels to narrate scenarios related to data and real-world correlations 
+	* Introduction: Establish the concept of the world using visuals to immerse the reader.
+	* Manhwa Panels: Incorporate manhwa-style panels to narrate scenarios related to data and real-world correlations 
 
 ## Crypto Instruction Manual *DLC*
 Introduction to [Crypto Coin Name]
