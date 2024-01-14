@@ -312,23 +312,14 @@ https://www.reddit.com/r/RetroFuturism/comments/7oh3m5/future_underground_city/
 
 ### Cults
 - Snake cult (information/knowledge/wisdom of self )
-
-		You have to learn the snake path because that’s how visions maneuver moving like liquid they don’t work in straight lines like, why else do you think the path winds and slithers the same way time travels as well as visions because not everything happens in a straight line time doesnt move in a straight line pas'ghetti 
+	- You have to learn the snake path because that’s how visions maneuver moving like liquid they don’t work in straight lines like, why else do you think the path winds and slithers the same way time travels as well as visions because not everything happens in a straight line time doesnt move in a straight line pas'ghetti 
 
 - Fox cult (Art)
 - Druid cult (Nature)
 
->High ranking leaders of industries heads of thier respected catagory 
->Outcast’s
->
->### ChatGPT Edited Sample Narrative Simulation: "Digital Chronicles"
+- High ranking leaders of industries heads of thier respected catagory 
+- Outcast’s
 
-Simulation 1: The NFT Unveiling
-
-The episode introduces the three main characters, A, B, and C, as they embark on their daily routines in the Smart City.
->A, a generative artist, completes a groundbreaking series of generative artworks, each uniquely tied to an NFT. [https://www.artblocks.io]
->B introduces readers to the NFT release schedule, on a dedicated platform directly tied to the book. Cohort Study(LifeStyle) / Live Stream [Data Driven Document Digital Download TBD Sample Reference: https://thevisualized.com ]  
->C Shows Viewers and immerses them in the city's unique culture, including its emphasis on technology, diverse districts, and birth assessments.[Data Driven Document Digital Download TBD Sample Reference: https://thevisualized.com ]  
 
 	Title Page:
 	Title: [Your Book Title]
@@ -345,13 +336,23 @@ The episode introduces the three main characters, A, B, and C, as they embark on
 	
 ### * Introduction to the Book: 
 - Briefly explain the purpose and scope of the book.
-- 
+- *ChatGPT Edited Sample Narrative Simulation: "Digital Chronicles"*
+
+
+
 ### * Author's Note: 
 - A personal message from the author
-- 
+
 	Simulation 0.1: [Chapter Title]
 	Alt Reality Sim Begin’s
+	Simulation 0.01: The NFT Unveiling
 
+	The episode introduces the three main characters, A, B, and C, as they embark on their daily routines in the Smart City.
+	- A, a generative artist, completes a groundbreaking series of generative artworks, each uniquely tied to an NFT. [https://www.artblocks.io]
+	- B introduces readers to the NFT release schedule, on a dedicated platform directly tied to the book. Cohort Study(LifeStyle) / Live Stream [Data Driven Document Digital Download TBD Sample Reference: https://thevisualized.com ]
+	- C Shows Viewers and immerses them in the city's unique culture, including its emphasis on technology, diverse districts, and birth assessments.[Data Driven Document Digital Download TBD Sample Reference: https://thevisualized.com ]
+
+ 
 	* Introduction: Establish the concept of the world using visuals to immerse the reader.
 	* Manhwa Panels: Incorporate manhwa-style panels to narrate scenarios related to data and real-world correlations 
 
