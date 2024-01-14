@@ -321,40 +321,40 @@ https://www.reddit.com/r/RetroFuturism/comments/7oh3m5/future_underground_city/
 - Outcast’s
 
 
-	Title Page:
-	Title: [Your Book Title]
-	Subtitle
-	Author/Creator Name
-	Date
-	Table Of Contents
-	Introduction
-	Sumulation 0.1:[Title]
-	Sections 0.1:[Subtitle]
-	Page [Page Number]
-	Section2: [Subtitle]
-	...
+		Title Page:
+		Title: [Your Book Title]
+		Subtitle
+		Author/Creator Name
+		Date
+		Table Of Contents
+		Introduction
+		Sumulation 0.1:[Title]
+		Sections 0.1:[Subtitle]
+		Page [Page Number]
+		Section2: [Subtitle]
+		...
 	
 ### * Introduction to the Book: 
 - Briefly explain the purpose and scope of the book.
-- *ChatGPT Edited Sample Narrative Simulation: "Digital Chronicles"*
+- Establish the concept of the world using visuals to immerse the reader.
+
+- *ChatGPT Edited Sample Template Narrative Simulation: "Digital Chronicles"*
 
 
 
 ### * Author's Note: 
 - A personal message from the author
 
-	Simulation 0.1: [Chapter Title]
-	Alt Reality Sim Begin’s
-	Simulation 0.01: The NFT Unveiling
+		Simulation 0.1: [Chapter Title]
+		Alt Reality Sim Begin’s
+		Simulation 0.01: The NFT Unveiling
 
-	The episode introduces the three main characters, A, B, and C, as they embark on their daily routines in the Smart City.
-	- A, a generative artist, completes a groundbreaking series of generative artworks, each uniquely tied to an NFT. [https://www.artblocks.io]
-	- B introduces readers to the NFT release schedule, on a dedicated platform directly tied to the book. Cohort Study(LifeStyle) / Live Stream [Data Driven Document Digital Download TBD Sample Reference: https://thevisualized.com ]
-	- C Shows Viewers and immerses them in the city's unique culture, including its emphasis on technology, diverse districts, and birth assessments.[Data Driven Document Digital Download TBD Sample Reference: https://thevisualized.com ]
+		The episode introduces the three main characters, A, B, and C, as they embark on their daily routines in the Smart City.
+		- A, a generative artist, completes a groundbreaking series of generative artworks, each uniquely tied to an NFT. [https://www.artblocks.io]
+		- B introduces readers to the NFT release schedule, on a dedicated platform directly tied to the book. Cohort Study(LifeStyle) / Live Stream [Data Driven Document Digital Download TBD Sample Reference: https://thevisualized.com ]
+		- C Shows Viewers and immerses them in the city's unique culture, including its emphasis on technology, diverse districts, and birth assessments.[Data Driven Document Digital Download TBD Sample Reference: https://thevisualized.com ]
 
- 
-	* Introduction: Establish the concept of the world using visuals to immerse the reader.
-	* Manhwa Panels: Incorporate manhwa-style panels to narrate scenarios related to data and real-world correlations 
+			Manhwa Panels: Incorporate manhwa-style panels to narrate scenarios related to data and real-world correlations 
 
 ## Crypto Instruction Manual *DLC*
 Introduction to [Crypto Coin Name]
