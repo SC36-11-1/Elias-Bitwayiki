@@ -406,10 +406,10 @@ Introduction to [Crypto Coin Name]
 
 
 
-### Generative Art Pallet *DLC*
+## Generative Art Pallet *DLC*
 * Generative Art Coding Pallet Examples and Sample Code
 
-### Cyber Security Poster Best Practices *DLC*
+## Cyber Security Poster Best Practices *DLC*
 * NFT Home Network Step-by-step Set-up
 
 ### Conclusion
