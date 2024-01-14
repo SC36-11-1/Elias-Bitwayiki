@@ -408,6 +408,7 @@ Introduction to [Crypto Coin Name]
 
 ## Generative Art Pallet *DLC*
 * Generative Art Coding Pallet Examples and Sample Code
+* (GumRoad)[https://36nibs.gumroad.com/l/GithubPallet?_gl=1*sgykzj*_ga*MzY0NjA2NzI1LjE3MDUyNTIzODc.*_ga_6LJN6D94N6*MTcwNTI1MjM5MC4xLjEuMTcwNTI1MjQzMC4wLjAuMA..]
 
 ## Cyber Security Poster Best Practices *DLC*
 * NFT Home Network Step-by-step Set-up
