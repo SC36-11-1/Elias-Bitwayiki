@@ -350,9 +350,9 @@ https://www.reddit.com/r/RetroFuturism/comments/7oh3m5/future_underground_city/
 		Simulation 0.01: The NFT Unveiling
 
 		The episode introduces the three main characters, A, B, and C, as they embark on their daily routines in the Smart City.
-		- A the generative artist, completes a groundbreaking series of generative artworks, each uniquely tied to an NFT. [https://www.artblocks.io]
-		- B introduces readers to the NFT release schedule, on a dedicated platform directly tied to the book. Cohort Study(LifeStyle) / Live Stream [Data Driven Document Digital Download TBD Sample Reference: https://thevisualized.com ]
-		- C Shows Viewers and immerses them in the city's unique culture, including its emphasis on technology, diverse districts, and birth assessments.[Data Driven Document Digital Download TBD Sample Reference: https://thevisualized.com ]
+		- A the generative artist and Gamer, completes a groundbreaking series of generative artworks, each uniquely tied to an NFT. [https://www.artblocks.io]
+		- B introduces readers to the NFT release schedule Calenders, on a dedicated platform directly tied to the book. Cohort Study(LifeStyle) / Live Stream [Data Driven Document Digital Download TBD Sample Reference: https://thevisualized.com ]
+		- C Shows Viewers and immerses them in the city's unique culture, including its emphasis on technology, diverse districts, Landscapes, Propoganda Posters and birth assessments Plus Anime Reveiws .[Data Driven Document Digital Download TBD Sample Reference: https://thevisualized.com ][ Wordpress Anime Blog https://36nibs.wordpress.com ]
 
 			Manhwa Panels: Incorporate manhwa-style panels to narrate scenarios related to data and real-world correlations 
 
