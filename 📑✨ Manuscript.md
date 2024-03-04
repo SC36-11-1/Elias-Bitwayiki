@@ -1,4 +1,4 @@
-# 📑✨ Manuscript 
+# 📑✨ Manuscript(s)
 
 	Hybrid Combination Graphic Novel / Digital Document: 
 		- Manuscript
