@@ -261,7 +261,8 @@ Character Archetype 3
   	- 
 	- Forest border Tech city + Creator District
 
->(Birthing Contracts from Companies for workers using manufactured dna for optimimal dna multiple companie varients for different type of job test tube/classical birth options with different incentives for parents raising company property)
+>( Company A. House’s  trains and educates workers and increases labour workforce through paid birthing contracts. 
+Divergent. Birthing Contracts from Companies for workers using manufactured dna for optimimal dna multiple companie varients for different type of job test tube/classical birth options with different incentives for parents raising company property)
 - Low birth rate
 - Low Population
 
