@@ -454,6 +454,8 @@ Introduction to [Crypto Coin Name]
 
 ### Biometrics
 
+	" https://chatgpt.com/share/59284b30-1f50-44da-b36d-6643c81f5ed6 "
+
 There are many different types of biometrics in this paper. I am going to highlight and emphasize the ones that I think will be most impactful. The use of multiple devices in unison provide deeper levels of sensor-data as well as higher levels of accuracy in readings.
 
 - Brain Computer Interface - using electroencephalography BCI -EEG
