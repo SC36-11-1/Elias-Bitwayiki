@@ -17,11 +17,11 @@ Referencing: https://tattooing101.com/learn/styles/
 Generative Art 
 
 	Traditional / Old School Tattoo Style
-	Neo Traditional✨
-	New School✨
-	Black and Grey ✨
-	Realism ✨	
-	Japanese ✨
+	Neo Traditional
+	New School
+	Black and Grey 
+	Realism 
+	Japanese 
 	Script / Lettering 
 	Watercolour 
 	Geometric
@@ -37,22 +37,23 @@ Generative Art
 	Graffiti Art
 	Surrealism
 	Sketch
-	Blackwork ✨
+	Blackwork 
 	Trash Polka
-	Dotwork✨
+	Dotwork
 	Negative Space
-	Fine Art✨
-	Micro Tattoos✨
+	Fine Art
+	Micro Tattoos
 	3-D
-	Cartoon/Anime Tattoos✨
+	Cartoon/Anime Tattoos
 	Chicano
 	Bio-mechanical
-	Hyperrealism ✨
-	Religious + Symbolic + Tribal + Spiritual + Demonic✨
+	Hyperrealism 
+	Religious + Symbolic + Tribal + Spiritual + Demonic
 	Horror
-	Continuous line✨
-	Illustrative✨
-	Abstract✨
+	Continuous line
+	Illustrative
+	Abstract
+![d3e3a5f771b9e383e4e6d61a771b794a](https://github.com/user-attachments/assets/8a8ff51b-52e6-4bb4-b8eb-af3a5cc01109)
 
 
 ## #DAO #Digital-Contract
