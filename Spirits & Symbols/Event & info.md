@@ -1,5 +1,6 @@
 ### Bartending
 
+- https://www.diageobaracademy.com/en-zz/home
 - https://www.londonessenceco.com/en/inspiration/the-essence-house/
 - https://www.globalbartending.com/events
 - https://cocktailwars.ca/experiences/cocktail-wars/
